@@ -1,0 +1,11 @@
+C:\_workspace\CoursMobile\C#\Mobile\Mobile.Converssion\bin\Debug\netcoreapp3.1\Mobile.Converssion.exe
+C:\_workspace\CoursMobile\C#\Mobile\Mobile.Converssion\bin\Debug\netcoreapp3.1\Mobile.Converssion.deps.json
+C:\_workspace\CoursMobile\C#\Mobile\Mobile.Converssion\bin\Debug\netcoreapp3.1\Mobile.Converssion.runtimeconfig.json
+C:\_workspace\CoursMobile\C#\Mobile\Mobile.Converssion\bin\Debug\netcoreapp3.1\Mobile.Converssion.runtimeconfig.dev.json
+C:\_workspace\CoursMobile\C#\Mobile\Mobile.Converssion\bin\Debug\netcoreapp3.1\Mobile.Converssion.dll
+C:\_workspace\CoursMobile\C#\Mobile\Mobile.Converssion\bin\Debug\netcoreapp3.1\Mobile.Converssion.pdb
+C:\_workspace\CoursMobile\C#\Mobile\Mobile.Converssion\obj\Debug\netcoreapp3.1\Mobile.Converssion.AssemblyInfoInputs.cache
+C:\_workspace\CoursMobile\C#\Mobile\Mobile.Converssion\obj\Debug\netcoreapp3.1\Mobile.Converssion.AssemblyInfo.cs
+C:\_workspace\CoursMobile\C#\Mobile\Mobile.Converssion\obj\Debug\netcoreapp3.1\Mobile.Converssion.dll
+C:\_workspace\CoursMobile\C#\Mobile\Mobile.Converssion\obj\Debug\netcoreapp3.1\Mobile.Converssion.pdb
+C:\_workspace\CoursMobile\C#\Mobile\Mobile.Converssion\obj\Debug\netcoreapp3.1\Mobile.Converssion.csprojAssemblyReference.cache

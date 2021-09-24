@@ -1,0 +1,16 @@
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\Mobile\GestionBanque\GestionBanque03\bin\Debug\net5.0\GestionBanque03.exe
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\Mobile\GestionBanque\GestionBanque03\bin\Debug\net5.0\GestionBanque03.deps.json
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\Mobile\GestionBanque\GestionBanque03\bin\Debug\net5.0\GestionBanque03.runtimeconfig.json
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\Mobile\GestionBanque\GestionBanque03\bin\Debug\net5.0\GestionBanque03.runtimeconfig.dev.json
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\Mobile\GestionBanque\GestionBanque03\bin\Debug\net5.0\GestionBanque03.dll
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\Mobile\GestionBanque\GestionBanque03\bin\Debug\net5.0\ref\GestionBanque03.dll
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\Mobile\GestionBanque\GestionBanque03\bin\Debug\net5.0\GestionBanque03.pdb
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\Mobile\GestionBanque\GestionBanque03\obj\Debug\net5.0\GestionBanque03.csproj.AssemblyReference.cache
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\Mobile\GestionBanque\GestionBanque03\obj\Debug\net5.0\GestionBanque03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\Mobile\GestionBanque\GestionBanque03\obj\Debug\net5.0\GestionBanque03.AssemblyInfoInputs.cache
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\Mobile\GestionBanque\GestionBanque03\obj\Debug\net5.0\GestionBanque03.AssemblyInfo.cs
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\Mobile\GestionBanque\GestionBanque03\obj\Debug\net5.0\GestionBanque03.csproj.CoreCompileInputs.cache
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\Mobile\GestionBanque\GestionBanque03\obj\Debug\net5.0\GestionBanque03.dll
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\Mobile\GestionBanque\GestionBanque03\obj\Debug\net5.0\ref\GestionBanque03.dll
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\Mobile\GestionBanque\GestionBanque03\obj\Debug\net5.0\GestionBanque03.pdb
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\Mobile\GestionBanque\GestionBanque03\obj\Debug\net5.0\GestionBanque03.genruntimeconfig.cache

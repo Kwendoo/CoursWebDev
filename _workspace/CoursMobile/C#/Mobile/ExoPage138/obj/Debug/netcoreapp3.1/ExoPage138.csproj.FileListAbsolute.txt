@@ -1,0 +1,11 @@
+C:\_workspace\CoursMobile\C#\Mobile\ExoPage138\bin\Debug\netcoreapp3.1\ExoPage138.exe
+C:\_workspace\CoursMobile\C#\Mobile\ExoPage138\bin\Debug\netcoreapp3.1\ExoPage138.deps.json
+C:\_workspace\CoursMobile\C#\Mobile\ExoPage138\bin\Debug\netcoreapp3.1\ExoPage138.runtimeconfig.json
+C:\_workspace\CoursMobile\C#\Mobile\ExoPage138\bin\Debug\netcoreapp3.1\ExoPage138.runtimeconfig.dev.json
+C:\_workspace\CoursMobile\C#\Mobile\ExoPage138\bin\Debug\netcoreapp3.1\ExoPage138.dll
+C:\_workspace\CoursMobile\C#\Mobile\ExoPage138\bin\Debug\netcoreapp3.1\ExoPage138.pdb
+C:\_workspace\CoursMobile\C#\Mobile\ExoPage138\obj\Debug\netcoreapp3.1\ExoPage138.csprojAssemblyReference.cache
+C:\_workspace\CoursMobile\C#\Mobile\ExoPage138\obj\Debug\netcoreapp3.1\ExoPage138.AssemblyInfoInputs.cache
+C:\_workspace\CoursMobile\C#\Mobile\ExoPage138\obj\Debug\netcoreapp3.1\ExoPage138.AssemblyInfo.cs
+C:\_workspace\CoursMobile\C#\Mobile\ExoPage138\obj\Debug\netcoreapp3.1\ExoPage138.dll
+C:\_workspace\CoursMobile\C#\Mobile\ExoPage138\obj\Debug\netcoreapp3.1\ExoPage138.pdb

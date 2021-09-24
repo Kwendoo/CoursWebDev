@@ -1,0 +1,16 @@
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\AdoCsharp\AdoCsharp\AdoCsharp\bin\Debug\net5.0\AdoCsharp.exe
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\AdoCsharp\AdoCsharp\AdoCsharp\bin\Debug\net5.0\AdoCsharp.deps.json
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\AdoCsharp\AdoCsharp\AdoCsharp\bin\Debug\net5.0\AdoCsharp.runtimeconfig.json
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\AdoCsharp\AdoCsharp\AdoCsharp\bin\Debug\net5.0\AdoCsharp.runtimeconfig.dev.json
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\AdoCsharp\AdoCsharp\AdoCsharp\bin\Debug\net5.0\AdoCsharp.dll
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\AdoCsharp\AdoCsharp\AdoCsharp\bin\Debug\net5.0\ref\AdoCsharp.dll
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\AdoCsharp\AdoCsharp\AdoCsharp\bin\Debug\net5.0\AdoCsharp.pdb
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\AdoCsharp\AdoCsharp\AdoCsharp\obj\Debug\net5.0\AdoCsharp.csproj.AssemblyReference.cache
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\AdoCsharp\AdoCsharp\AdoCsharp\obj\Debug\net5.0\AdoCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\AdoCsharp\AdoCsharp\AdoCsharp\obj\Debug\net5.0\AdoCsharp.AssemblyInfoInputs.cache
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\AdoCsharp\AdoCsharp\AdoCsharp\obj\Debug\net5.0\AdoCsharp.AssemblyInfo.cs
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\AdoCsharp\AdoCsharp\AdoCsharp\obj\Debug\net5.0\AdoCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\AdoCsharp\AdoCsharp\AdoCsharp\obj\Debug\net5.0\AdoCsharp.dll
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\AdoCsharp\AdoCsharp\AdoCsharp\obj\Debug\net5.0\ref\AdoCsharp.dll
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\AdoCsharp\AdoCsharp\AdoCsharp\obj\Debug\net5.0\AdoCsharp.pdb
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\AdoCsharp\AdoCsharp\AdoCsharp\obj\Debug\net5.0\AdoCsharp.genruntimeconfig.cache

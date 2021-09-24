@@ -1,0 +1,32 @@
+table tr td {
+    width: 600px;
+    margin 0 auto;
+}
+
+table {
+    border: 1px solid black;
+    padding: 0 auto;
+    margin-bottom: 20px;
+    border-collapse: collapse;
+}
+
+.uno tbody tr:nth-chlid(odd) {
+    background-color: saddlebrown;
+    color: white;
+}
+
+.dos tbody tr:nth-chlid(even) {
+    background-color: red;
+    color: white;
+}
+
+.tres tbody tr:last-chlid, .tres tbody tr:nth-last-chlid(2){
+    color: white;
+    background-color: darkblue;
+}
+
+.quatro tbody tr:nth-chlid(2){
+    color: black;
+    text-shadow: white 1px 1px 1px;
+    background-color: green;
+}

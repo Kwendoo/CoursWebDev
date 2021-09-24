@@ -1,0 +1,16 @@
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\01LesFondamentauxCsharp\ExoPage114\bin\Debug\net5.0\ExoPage114.exe
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\01LesFondamentauxCsharp\ExoPage114\bin\Debug\net5.0\ExoPage114.deps.json
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\01LesFondamentauxCsharp\ExoPage114\bin\Debug\net5.0\ExoPage114.runtimeconfig.json
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\01LesFondamentauxCsharp\ExoPage114\bin\Debug\net5.0\ExoPage114.runtimeconfig.dev.json
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\01LesFondamentauxCsharp\ExoPage114\bin\Debug\net5.0\ExoPage114.dll
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\01LesFondamentauxCsharp\ExoPage114\bin\Debug\net5.0\ref\ExoPage114.dll
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\01LesFondamentauxCsharp\ExoPage114\bin\Debug\net5.0\ExoPage114.pdb
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\01LesFondamentauxCsharp\ExoPage114\obj\Debug\net5.0\ExoPage114.csproj.AssemblyReference.cache
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\01LesFondamentauxCsharp\ExoPage114\obj\Debug\net5.0\ExoPage114.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\01LesFondamentauxCsharp\ExoPage114\obj\Debug\net5.0\ExoPage114.AssemblyInfoInputs.cache
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\01LesFondamentauxCsharp\ExoPage114\obj\Debug\net5.0\ExoPage114.AssemblyInfo.cs
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\01LesFondamentauxCsharp\ExoPage114\obj\Debug\net5.0\ExoPage114.csproj.CoreCompileInputs.cache
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\01LesFondamentauxCsharp\ExoPage114\obj\Debug\net5.0\ExoPage114.dll
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\01LesFondamentauxCsharp\ExoPage114\obj\Debug\net5.0\ref\ExoPage114.dll
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\01LesFondamentauxCsharp\ExoPage114\obj\Debug\net5.0\ExoPage114.pdb
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\01LesFondamentauxCsharp\ExoPage114\obj\Debug\net5.0\ExoPage114.genruntimeconfig.cache

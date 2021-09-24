@@ -1,0 +1,5 @@
+C:\_workspace\CoursMobile\C#\Mobile\ExoPAge203Correction\obj\Debug\net5.0\ExoPAge203Correction.csproj.AssemblyReference.cache
+C:\_workspace\CoursMobile\C#\Mobile\ExoPAge203Correction\obj\Debug\net5.0\ExoPAge203Correction.GeneratedMSBuildEditorConfig.editorconfig
+C:\_workspace\CoursMobile\C#\Mobile\ExoPAge203Correction\obj\Debug\net5.0\ExoPAge203Correction.AssemblyInfoInputs.cache
+C:\_workspace\CoursMobile\C#\Mobile\ExoPAge203Correction\obj\Debug\net5.0\ExoPAge203Correction.AssemblyInfo.cs
+C:\_workspace\CoursMobile\C#\Mobile\ExoPAge203Correction\obj\Debug\net5.0\ExoPAge203Correction.csproj.CoreCompileInputs.cache

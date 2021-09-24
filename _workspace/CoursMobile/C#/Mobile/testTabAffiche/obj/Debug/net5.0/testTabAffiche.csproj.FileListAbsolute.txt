@@ -1,0 +1,16 @@
+C:\_workspace\CoursMobile\C#\Mobile\testTabAffiche\bin\Debug\net5.0\testTabAffiche.exe
+C:\_workspace\CoursMobile\C#\Mobile\testTabAffiche\bin\Debug\net5.0\testTabAffiche.deps.json
+C:\_workspace\CoursMobile\C#\Mobile\testTabAffiche\bin\Debug\net5.0\testTabAffiche.runtimeconfig.json
+C:\_workspace\CoursMobile\C#\Mobile\testTabAffiche\bin\Debug\net5.0\testTabAffiche.runtimeconfig.dev.json
+C:\_workspace\CoursMobile\C#\Mobile\testTabAffiche\bin\Debug\net5.0\testTabAffiche.dll
+C:\_workspace\CoursMobile\C#\Mobile\testTabAffiche\bin\Debug\net5.0\ref\testTabAffiche.dll
+C:\_workspace\CoursMobile\C#\Mobile\testTabAffiche\bin\Debug\net5.0\testTabAffiche.pdb
+C:\_workspace\CoursMobile\C#\Mobile\testTabAffiche\obj\Debug\net5.0\testTabAffiche.csproj.AssemblyReference.cache
+C:\_workspace\CoursMobile\C#\Mobile\testTabAffiche\obj\Debug\net5.0\testTabAffiche.GeneratedMSBuildEditorConfig.editorconfig
+C:\_workspace\CoursMobile\C#\Mobile\testTabAffiche\obj\Debug\net5.0\testTabAffiche.AssemblyInfoInputs.cache
+C:\_workspace\CoursMobile\C#\Mobile\testTabAffiche\obj\Debug\net5.0\testTabAffiche.AssemblyInfo.cs
+C:\_workspace\CoursMobile\C#\Mobile\testTabAffiche\obj\Debug\net5.0\testTabAffiche.csproj.CoreCompileInputs.cache
+C:\_workspace\CoursMobile\C#\Mobile\testTabAffiche\obj\Debug\net5.0\testTabAffiche.dll
+C:\_workspace\CoursMobile\C#\Mobile\testTabAffiche\obj\Debug\net5.0\ref\testTabAffiche.dll
+C:\_workspace\CoursMobile\C#\Mobile\testTabAffiche\obj\Debug\net5.0\testTabAffiche.pdb
+C:\_workspace\CoursMobile\C#\Mobile\testTabAffiche\obj\Debug\net5.0\testTabAffiche.genruntimeconfig.cache

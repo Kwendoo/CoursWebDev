@@ -1,0 +1,16 @@
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\ExoCarWash\CarWash\CarWash\bin\Debug\net5.0\CarWash.exe
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\ExoCarWash\CarWash\CarWash\bin\Debug\net5.0\CarWash.deps.json
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\ExoCarWash\CarWash\CarWash\bin\Debug\net5.0\CarWash.runtimeconfig.json
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\ExoCarWash\CarWash\CarWash\bin\Debug\net5.0\CarWash.runtimeconfig.dev.json
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\ExoCarWash\CarWash\CarWash\bin\Debug\net5.0\CarWash.dll
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\ExoCarWash\CarWash\CarWash\bin\Debug\net5.0\ref\CarWash.dll
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\ExoCarWash\CarWash\CarWash\bin\Debug\net5.0\CarWash.pdb
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\ExoCarWash\CarWash\CarWash\obj\Debug\net5.0\CarWash.csproj.AssemblyReference.cache
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\ExoCarWash\CarWash\CarWash\obj\Debug\net5.0\CarWash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\ExoCarWash\CarWash\CarWash\obj\Debug\net5.0\CarWash.AssemblyInfoInputs.cache
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\ExoCarWash\CarWash\CarWash\obj\Debug\net5.0\CarWash.AssemblyInfo.cs
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\ExoCarWash\CarWash\CarWash\obj\Debug\net5.0\CarWash.csproj.CoreCompileInputs.cache
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\ExoCarWash\CarWash\CarWash\obj\Debug\net5.0\CarWash.dll
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\ExoCarWash\CarWash\CarWash\obj\Debug\net5.0\ref\CarWash.dll
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\ExoCarWash\CarWash\CarWash\obj\Debug\net5.0\CarWash.pdb
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\ExoCarWash\CarWash\CarWash\obj\Debug\net5.0\CarWash.genruntimeconfig.cache

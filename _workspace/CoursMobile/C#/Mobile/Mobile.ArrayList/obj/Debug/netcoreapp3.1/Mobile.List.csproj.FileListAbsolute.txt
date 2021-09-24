@@ -1,0 +1,14 @@
+C:\_workspace\CoursMobile\C#\Mobile\Mobile.ArrayList\bin\Debug\netcoreapp3.1\Mobile.List.exe
+C:\_workspace\CoursMobile\C#\Mobile\Mobile.ArrayList\bin\Debug\netcoreapp3.1\Mobile.List.deps.json
+C:\_workspace\CoursMobile\C#\Mobile\Mobile.ArrayList\bin\Debug\netcoreapp3.1\Mobile.List.runtimeconfig.json
+C:\_workspace\CoursMobile\C#\Mobile\Mobile.ArrayList\bin\Debug\netcoreapp3.1\Mobile.List.runtimeconfig.dev.json
+C:\_workspace\CoursMobile\C#\Mobile\Mobile.ArrayList\bin\Debug\netcoreapp3.1\Mobile.List.dll
+C:\_workspace\CoursMobile\C#\Mobile\Mobile.ArrayList\bin\Debug\netcoreapp3.1\Mobile.List.pdb
+C:\_workspace\CoursMobile\C#\Mobile\Mobile.ArrayList\obj\Debug\netcoreapp3.1\Mobile.List.AssemblyInfoInputs.cache
+C:\_workspace\CoursMobile\C#\Mobile\Mobile.ArrayList\obj\Debug\netcoreapp3.1\Mobile.List.AssemblyInfo.cs
+C:\_workspace\CoursMobile\C#\Mobile\Mobile.ArrayList\obj\Debug\netcoreapp3.1\Mobile.List.dll
+C:\_workspace\CoursMobile\C#\Mobile\Mobile.ArrayList\obj\Debug\netcoreapp3.1\Mobile.List.pdb
+C:\_workspace\CoursMobile\C#\Mobile\Mobile.ArrayList\obj\Debug\netcoreapp3.1\Mobile.List.csproj.AssemblyReference.cache
+C:\_workspace\CoursMobile\C#\Mobile\Mobile.ArrayList\obj\Debug\netcoreapp3.1\Mobile.List.GeneratedMSBuildEditorConfig.editorconfig
+C:\_workspace\CoursMobile\C#\Mobile\Mobile.ArrayList\obj\Debug\netcoreapp3.1\Mobile.List.csproj.CoreCompileInputs.cache
+C:\_workspace\CoursMobile\C#\Mobile\Mobile.ArrayList\obj\Debug\netcoreapp3.1\Mobile.List.genruntimeconfig.cache

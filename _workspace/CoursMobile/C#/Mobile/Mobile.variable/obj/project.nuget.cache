@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "gqtMBtOZgPnv0rvzMFHSlqT05hxc0xI+UAahC/PAbBPE9IQLp6pjRYsNQKxfs2k2FXaixKPuXHORC2HPm/Nfsw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Antoine\\source\\repos\\_workspace\\CoursMobile\\C#\\Mobile\\Mobile.variable\\Mobile.variable.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Le projet Mobile.Strucutre n'est pas compatible avec netcoreapp3.1 (.NETCoreApp,Version=v3.1). Le projet Mobile.Strucutre prend en charge : net5.0 (.NETCoreApp,Version=v5.0)",
+      "libraryId": "Mobile.Strucutre",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

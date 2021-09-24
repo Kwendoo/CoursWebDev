@@ -1,0 +1,16 @@
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\01LesFondamentauxCsharp\ExoPage138A\bin\Debug\net5.0\ExoPage138A.exe
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\01LesFondamentauxCsharp\ExoPage138A\bin\Debug\net5.0\ExoPage138A.deps.json
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\01LesFondamentauxCsharp\ExoPage138A\bin\Debug\net5.0\ExoPage138A.runtimeconfig.json
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\01LesFondamentauxCsharp\ExoPage138A\bin\Debug\net5.0\ExoPage138A.runtimeconfig.dev.json
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\01LesFondamentauxCsharp\ExoPage138A\bin\Debug\net5.0\ExoPage138A.dll
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\01LesFondamentauxCsharp\ExoPage138A\bin\Debug\net5.0\ref\ExoPage138A.dll
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\01LesFondamentauxCsharp\ExoPage138A\bin\Debug\net5.0\ExoPage138A.pdb
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\01LesFondamentauxCsharp\ExoPage138A\obj\Debug\net5.0\ExoPage138A.csproj.AssemblyReference.cache
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\01LesFondamentauxCsharp\ExoPage138A\obj\Debug\net5.0\ExoPage138A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\01LesFondamentauxCsharp\ExoPage138A\obj\Debug\net5.0\ExoPage138A.AssemblyInfoInputs.cache
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\01LesFondamentauxCsharp\ExoPage138A\obj\Debug\net5.0\ExoPage138A.AssemblyInfo.cs
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\01LesFondamentauxCsharp\ExoPage138A\obj\Debug\net5.0\ExoPage138A.csproj.CoreCompileInputs.cache
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\01LesFondamentauxCsharp\ExoPage138A\obj\Debug\net5.0\ExoPage138A.dll
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\01LesFondamentauxCsharp\ExoPage138A\obj\Debug\net5.0\ref\ExoPage138A.dll
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\01LesFondamentauxCsharp\ExoPage138A\obj\Debug\net5.0\ExoPage138A.pdb
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\01LesFondamentauxCsharp\ExoPage138A\obj\Debug\net5.0\ExoPage138A.genruntimeconfig.cache

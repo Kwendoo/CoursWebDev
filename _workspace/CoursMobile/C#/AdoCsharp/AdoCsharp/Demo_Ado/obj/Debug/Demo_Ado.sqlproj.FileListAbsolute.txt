@@ -1,0 +1,5 @@
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\AdoCsharp\AdoCsharp\Demo_Ado\bin\Debug\Demo_Ado.dacpac
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\AdoCsharp\AdoCsharp\Demo_Ado\bin\Debug\Demo_Ado.dll
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\AdoCsharp\AdoCsharp\Demo_Ado\bin\Debug\Demo_Ado.pdb
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\AdoCsharp\AdoCsharp\Demo_Ado\obj\Debug\Demo_Ado.dll
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\AdoCsharp\AdoCsharp\Demo_Ado\obj\Debug\Demo_Ado.pdb

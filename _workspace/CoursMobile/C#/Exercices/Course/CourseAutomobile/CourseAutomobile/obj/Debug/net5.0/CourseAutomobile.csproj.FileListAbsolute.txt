@@ -1,0 +1,16 @@
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\Exercices\Course\CourseAutomobile\CourseAutomobile\obj\Debug\net5.0\CourseAutomobile.csproj.AssemblyReference.cache
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\Exercices\Course\CourseAutomobile\CourseAutomobile\obj\Debug\net5.0\CourseAutomobile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\Exercices\Course\CourseAutomobile\CourseAutomobile\obj\Debug\net5.0\CourseAutomobile.AssemblyInfoInputs.cache
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\Exercices\Course\CourseAutomobile\CourseAutomobile\obj\Debug\net5.0\CourseAutomobile.AssemblyInfo.cs
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\Exercices\Course\CourseAutomobile\CourseAutomobile\obj\Debug\net5.0\CourseAutomobile.csproj.CoreCompileInputs.cache
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\Exercices\Course\CourseAutomobile\CourseAutomobile\bin\Debug\net5.0\CourseAutomobile.exe
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\Exercices\Course\CourseAutomobile\CourseAutomobile\bin\Debug\net5.0\CourseAutomobile.deps.json
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\Exercices\Course\CourseAutomobile\CourseAutomobile\bin\Debug\net5.0\CourseAutomobile.runtimeconfig.json
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\Exercices\Course\CourseAutomobile\CourseAutomobile\bin\Debug\net5.0\CourseAutomobile.runtimeconfig.dev.json
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\Exercices\Course\CourseAutomobile\CourseAutomobile\bin\Debug\net5.0\CourseAutomobile.dll
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\Exercices\Course\CourseAutomobile\CourseAutomobile\bin\Debug\net5.0\ref\CourseAutomobile.dll
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\Exercices\Course\CourseAutomobile\CourseAutomobile\bin\Debug\net5.0\CourseAutomobile.pdb
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\Exercices\Course\CourseAutomobile\CourseAutomobile\obj\Debug\net5.0\CourseAutomobile.dll
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\Exercices\Course\CourseAutomobile\CourseAutomobile\obj\Debug\net5.0\ref\CourseAutomobile.dll
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\Exercices\Course\CourseAutomobile\CourseAutomobile\obj\Debug\net5.0\CourseAutomobile.pdb
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\Exercices\Course\CourseAutomobile\CourseAutomobile\obj\Debug\net5.0\CourseAutomobile.genruntimeconfig.cache

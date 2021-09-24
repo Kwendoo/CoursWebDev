@@ -1,0 +1,11 @@
+C:\_workspace\CoursMobile\C#\Mobile\Mobile.Tableaux\obj\Debug\netcoreapp3.1\Mobile.Array.csprojAssemblyReference.cache
+C:\_workspace\CoursMobile\C#\Mobile\Mobile.Tableaux\obj\Debug\netcoreapp3.1\Mobile.Array.AssemblyInfoInputs.cache
+C:\_workspace\CoursMobile\C#\Mobile\Mobile.Tableaux\obj\Debug\netcoreapp3.1\Mobile.Array.AssemblyInfo.cs
+C:\_workspace\CoursMobile\C#\Mobile\Mobile.Tableaux\bin\Debug\netcoreapp3.1\Mobile.Array.exe
+C:\_workspace\CoursMobile\C#\Mobile\Mobile.Tableaux\bin\Debug\netcoreapp3.1\Mobile.Array.deps.json
+C:\_workspace\CoursMobile\C#\Mobile\Mobile.Tableaux\bin\Debug\netcoreapp3.1\Mobile.Array.runtimeconfig.json
+C:\_workspace\CoursMobile\C#\Mobile\Mobile.Tableaux\bin\Debug\netcoreapp3.1\Mobile.Array.runtimeconfig.dev.json
+C:\_workspace\CoursMobile\C#\Mobile\Mobile.Tableaux\bin\Debug\netcoreapp3.1\Mobile.Array.dll
+C:\_workspace\CoursMobile\C#\Mobile\Mobile.Tableaux\bin\Debug\netcoreapp3.1\Mobile.Array.pdb
+C:\_workspace\CoursMobile\C#\Mobile\Mobile.Tableaux\obj\Debug\netcoreapp3.1\Mobile.Array.dll
+C:\_workspace\CoursMobile\C#\Mobile\Mobile.Tableaux\obj\Debug\netcoreapp3.1\Mobile.Array.pdb

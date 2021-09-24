@@ -1,0 +1,101 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Mobile.Strucutre/1.0.0": {
+        "type": "project",
+        "framework": "Unsupported,Version=v0.0",
+        "compile": {
+          "bin/placeholder/Mobile.Strucutre.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Mobile.Strucutre.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mobile.Strucutre/1.0.0": {
+      "type": "project",
+      "path": "../Mobile.Strucutre/Mobile.Strucutre.csproj",
+      "msbuildProject": "../Mobile.Strucutre/Mobile.Strucutre.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Mobile.Strucutre >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Antoine\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Antoine\\source\\repos\\_workspace\\CoursMobile\\C#\\Mobile\\Mobile.variable\\Mobile.variable.csproj",
+      "projectName": "Mobile.variable",
+      "projectPath": "C:\\Users\\Antoine\\source\\repos\\_workspace\\CoursMobile\\C#\\Mobile\\Mobile.variable\\Mobile.variable.csproj",
+      "packagesPath": "C:\\Users\\Antoine\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Antoine\\source\\repos\\_workspace\\CoursMobile\\C#\\Mobile\\Mobile.variable\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Antoine\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\Antoine\\source\\repos\\_workspace\\CoursMobile\\C#\\Mobile\\Mobile.Strucutre\\Mobile.Strucutre.csproj": {
+              "projectPath": "C:\\Users\\Antoine\\source\\repos\\_workspace\\CoursMobile\\C#\\Mobile\\Mobile.Strucutre\\Mobile.Strucutre.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Le projet Mobile.Strucutre n'est pas compatible avec netcoreapp3.1 (.NETCoreApp,Version=v3.1). Le projet Mobile.Strucutre prend en charge : net5.0 (.NETCoreApp,Version=v5.0)",
+      "libraryId": "Mobile.Strucutre",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

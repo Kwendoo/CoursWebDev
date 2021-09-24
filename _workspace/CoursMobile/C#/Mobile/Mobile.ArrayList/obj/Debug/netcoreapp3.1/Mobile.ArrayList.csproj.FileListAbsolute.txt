@@ -1,0 +1,3 @@
+C:\_workspace\CoursMobile\C#\Mobile\Mobile.ArrayList\obj\Debug\netcoreapp3.1\Mobile.ArrayList.csprojAssemblyReference.cache
+C:\_workspace\CoursMobile\C#\Mobile\Mobile.ArrayList\obj\Debug\netcoreapp3.1\Mobile.ArrayList.AssemblyInfoInputs.cache
+C:\_workspace\CoursMobile\C#\Mobile\Mobile.ArrayList\obj\Debug\netcoreapp3.1\Mobile.ArrayList.AssemblyInfo.cs

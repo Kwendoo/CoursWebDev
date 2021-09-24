@@ -1,0 +1,72 @@
+input {
+    font-size: 20px;
+    border: 1px solid black;
+    outline: none;
+}
+
+
+#form1 {
+    display: block;
+    margin: 0 auto;
+    width: 500px; 
+    background-color: lightslategrey;
+    padding: 20px;
+}
+
+h2 {
+    color: darkblue;
+}
+
+#form1 label {
+    display: block;
+    padding-bottom: 2px;
+}
+
+input[type="submit"] {
+    width: 250px;
+    padding: 4px 15px;
+    background: #555;
+    color: #fff;
+    cursor: pointer;
+}
+
+p > input {
+    border-radius: 5px;
+}
+
+p > input[required]{
+    border-right : 5px solid red;
+}
+
+p > input:invalid{
+    border-right : 5px solid red;
+}
+
+p > input:valid{
+    border-right : 5px solid green;
+}
+
+#form2 {
+    display: block;
+    margin: 0 auto;
+    width: 500px; 
+    padding: 20px;
+}
+
+#form2 label {
+    display: inline-block;
+    width: 150px;
+}
+
+#form2 input, #form1 input {
+    display: inline-block;
+    width: 250px;
+}
+
+#form2 input[type="submit"] {
+    margin-left: 150px;
+}
+
+#form2 input[type="date"] {
+    width:  250px;
+}

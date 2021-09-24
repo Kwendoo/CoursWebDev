@@ -1,0 +1,16 @@
+C:\_workspace\CoursMobile\C#\Mobile\ExoPage203C\obj\Debug\net5.0\ExoPage203C.csproj.AssemblyReference.cache
+C:\_workspace\CoursMobile\C#\Mobile\ExoPage203C\obj\Debug\net5.0\ExoPage203C.GeneratedMSBuildEditorConfig.editorconfig
+C:\_workspace\CoursMobile\C#\Mobile\ExoPage203C\obj\Debug\net5.0\ExoPage203C.AssemblyInfoInputs.cache
+C:\_workspace\CoursMobile\C#\Mobile\ExoPage203C\obj\Debug\net5.0\ExoPage203C.AssemblyInfo.cs
+C:\_workspace\CoursMobile\C#\Mobile\ExoPage203C\obj\Debug\net5.0\ExoPage203C.csproj.CoreCompileInputs.cache
+C:\_workspace\CoursMobile\C#\Mobile\ExoPage203C\bin\Debug\net5.0\ExoPage203C.exe
+C:\_workspace\CoursMobile\C#\Mobile\ExoPage203C\bin\Debug\net5.0\ExoPage203C.deps.json
+C:\_workspace\CoursMobile\C#\Mobile\ExoPage203C\bin\Debug\net5.0\ExoPage203C.runtimeconfig.json
+C:\_workspace\CoursMobile\C#\Mobile\ExoPage203C\bin\Debug\net5.0\ExoPage203C.runtimeconfig.dev.json
+C:\_workspace\CoursMobile\C#\Mobile\ExoPage203C\bin\Debug\net5.0\ExoPage203C.dll
+C:\_workspace\CoursMobile\C#\Mobile\ExoPage203C\bin\Debug\net5.0\ref\ExoPage203C.dll
+C:\_workspace\CoursMobile\C#\Mobile\ExoPage203C\bin\Debug\net5.0\ExoPage203C.pdb
+C:\_workspace\CoursMobile\C#\Mobile\ExoPage203C\obj\Debug\net5.0\ExoPage203C.dll
+C:\_workspace\CoursMobile\C#\Mobile\ExoPage203C\obj\Debug\net5.0\ref\ExoPage203C.dll
+C:\_workspace\CoursMobile\C#\Mobile\ExoPage203C\obj\Debug\net5.0\ExoPage203C.pdb
+C:\_workspace\CoursMobile\C#\Mobile\ExoPage203C\obj\Debug\net5.0\ExoPage203C.genruntimeconfig.cache

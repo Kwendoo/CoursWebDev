@@ -1,0 +1,23 @@
+﻿** Met en surbrillance
+     Tables à reconstruire
+       Aucun
+     Index ordonnés en clusters à supprimer
+       Aucun
+     Index ordonnés en clusters à créer.
+       Aucun
+     Problèmes de données possibles
+       Aucun
+
+** Actions de l'utilisateur
+     Créer
+       [dbo].[Employee] (Table)
+       [dbo].[Employee].[IX_Employee_Email] (Index)
+       [dbo].[DF_Employee_Active] (Contrainte par défaut)
+       [dbo].[FK_Employee_Employee] (Clé étrangère)
+       [dbo].[CK_Employee_LastName] (Contrainte de validation)
+       [dbo].[CK_Employee_FirstName] (Contrainte de validation)
+       [dbo].[TG_Employee_Delete] (Déclencheur)
+       [dbo].[V_Employe] (Vue)
+       [dbo].[CSP_AddEmployee] (Procédure)
+
+** Actions de support

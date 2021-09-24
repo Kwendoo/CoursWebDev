@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "GestionBanque06/1.0.0": {
+        "runtime": {
+          "GestionBanque06.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GestionBanque06/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

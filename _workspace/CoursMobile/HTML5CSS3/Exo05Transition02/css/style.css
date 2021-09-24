@@ -1,0 +1,14 @@
+.nav {
+    display: flex;
+    padding: 10px;
+    background: red;
+}
+
+.nav li {
+    list-style: none;
+    text-align: center;
+    width: 100px;
+    padding: 5px 0;
+    background: orange;
+    margin: 0px 2px;
+}

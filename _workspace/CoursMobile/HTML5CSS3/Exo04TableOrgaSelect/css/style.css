@@ -1,0 +1,21 @@
+tbody tr:nth-chlid(odd)
+{background-color: #aaa; color: black } 
+    
+tbody tr:nth-chlid(even)
+{background-color: #333; color: white }
+
+tbody  tr:hover td
+{ color:red; background-color: green}
+
+tbody  tr td:hover
+{ color:blue; background-color: red}
+
+thead td
+{background-color: white; color: black } 
+
+tfoot td
+{background-color: white; color: black } 
+
+table {width: 400px; height: 200px; }
+
+td {padding: 10px; }

@@ -1,0 +1,11 @@
+C:\_workspace\CoursMobile\C#\Mobile\Mobile.Solution\bin\Debug\netcoreapp3.1\Mobile.Solution.exe
+C:\_workspace\CoursMobile\C#\Mobile\Mobile.Solution\bin\Debug\netcoreapp3.1\Mobile.Solution.deps.json
+C:\_workspace\CoursMobile\C#\Mobile\Mobile.Solution\bin\Debug\netcoreapp3.1\Mobile.Solution.runtimeconfig.json
+C:\_workspace\CoursMobile\C#\Mobile\Mobile.Solution\bin\Debug\netcoreapp3.1\Mobile.Solution.runtimeconfig.dev.json
+C:\_workspace\CoursMobile\C#\Mobile\Mobile.Solution\bin\Debug\netcoreapp3.1\Mobile.Solution.dll
+C:\_workspace\CoursMobile\C#\Mobile\Mobile.Solution\bin\Debug\netcoreapp3.1\Mobile.Solution.pdb
+C:\_workspace\CoursMobile\C#\Mobile\Mobile.Solution\obj\Debug\netcoreapp3.1\Mobile.Solution.csprojAssemblyReference.cache
+C:\_workspace\CoursMobile\C#\Mobile\Mobile.Solution\obj\Debug\netcoreapp3.1\Mobile.Solution.AssemblyInfoInputs.cache
+C:\_workspace\CoursMobile\C#\Mobile\Mobile.Solution\obj\Debug\netcoreapp3.1\Mobile.Solution.AssemblyInfo.cs
+C:\_workspace\CoursMobile\C#\Mobile\Mobile.Solution\obj\Debug\netcoreapp3.1\Mobile.Solution.dll
+C:\_workspace\CoursMobile\C#\Mobile\Mobile.Solution\obj\Debug\netcoreapp3.1\Mobile.Solution.pdb

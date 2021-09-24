@@ -1,0 +1,10 @@
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\AdoCsharp\ADO\ADO\bin\Debug\ADO.dacpac
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\AdoCsharp\ADO\ADO\bin\Debug\ADO.dll
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\AdoCsharp\ADO\ADO\bin\Debug\ADO.pdb
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\AdoCsharp\ADO\ADO\obj\Debug\ADO.dll
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\AdoCsharp\ADO\ADO\obj\Debug\ADO.pdb
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\AdoCsharp\ADO\ADO\obj\Debug\ADO.sqlproj.AssemblyReference.cache
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\AdoCsharp\ADO\ADO\obj\Debug\Model.xml
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\AdoCsharp\ADO\ADO\obj\Debug\refactor.xml
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\AdoCsharp\ADO\ADO\obj\Debug\postdeploy.sql
+C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\AdoCsharp\ADO\ADO\obj\Debug\predeploy.sql
