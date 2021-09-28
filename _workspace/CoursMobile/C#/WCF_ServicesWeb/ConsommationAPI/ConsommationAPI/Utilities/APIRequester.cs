@@ -23,7 +23,7 @@ namespace ConsommationAPI.Utilities
 
         public TResult Get<TResult>(string url)
         {
-            using (HttpResponseMessage message = _client.GetAsync("contact").Result)
+            using (HttpResponseMessage message = _client.GetAsync(url).Result)
             {
                 if (!message.IsSuccessStatusCode)
                 {
