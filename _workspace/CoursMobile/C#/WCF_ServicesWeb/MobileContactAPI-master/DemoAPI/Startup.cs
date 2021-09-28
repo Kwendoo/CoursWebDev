@@ -34,6 +34,7 @@ namespace DemoAPI
             // Transient -> Génération d'une nouvelle instance a chaque appel
 
             services.AddTransient(typeof(IContactService), typeof(ContactService));
+            services.AddScoped<IUserService, UserSevice>();
             #endregion
 
             services.AddControllers();
