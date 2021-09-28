@@ -41,7 +41,32 @@ namespace ConsommationAPI.Utilities
             string json = JsonConvert.SerializeObject(form);
             HttpContent content = new StringContent(json, Encoding.UTF8, "application/json");
 
-            using(HttpResponseMessage message = _client.PostAsync("contact", content).Result)
+            using(HttpResponseMessage message = _client.PostAsync("contact/", content).Result)
+            {
+                if (!message.IsSuccessStatusCode)
+                {
+                    throw new HttpRequestException();
+                }
+            }
+        }
+
+        public void Delete(int Id)
+        {
+            using (HttpResponseMessage message = _client.DeleteAsync("contact/" + Id).Result)
+            {
+                if (!message.IsSuccessStatusCode)
+                {
+                    throw new HttpRequestException();
+                }
+            }
+        }
+
+        public void UpDate(int Id, ContactForm form)
+        {
+            string json = JsonConvert.SerializeObject(form);
+            HttpContent content = new StringContent(json, Encoding.UTF8, "application/json");
+
+            using (HttpResponseMessage message = _client.PutAsync("contact/" + Id, content).Result)
             {
                 if (!message.IsSuccessStatusCode)
                 {

@@ -12,14 +12,18 @@ namespace ConsommationAPI
 
             ContactForm newContact = new ContactForm
             {
-                LastName = "Lagna",
-                FirstName = "Antoine",
-                Email = "antoine.lagna@gmail.com",
+                LastName = "Uber",
+                FirstName = "Roger",
+                Email = "Uber.Roger@gmail.com",
                 Telephone = "0474/639061",
                 IsFavorite = true
             };
 
             APIRequester requester = new APIRequester();
+
+            //requester.Post(newContact);
+            //requester.Delete(2);
+            requester.UpDate(1, newContact);
 
             IEnumerable<Contact> listeContact = requester.Get<IEnumerable<Contact>>("Contact");
 

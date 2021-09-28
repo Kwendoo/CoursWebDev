@@ -72,7 +72,7 @@ namespace DemoAPI.Controllers
         }
 
         //https://localhost:port/api/contact/1
-        [HttpDelete]
+        [HttpDelete("{Id}")]
         public IActionResult Suppression(int Id)
         {
             if(_service.Delete(Id))
