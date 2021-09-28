@@ -13,6 +13,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using DemoAPI.Tools;
 
 namespace DemoAPI
 {
@@ -35,6 +36,8 @@ namespace DemoAPI
 
             services.AddTransient(typeof(IContactService), typeof(ContactService));
             services.AddScoped<IUserService, UserSevice>();
+            services.AddTransient<ITokenManager, TokenManager>();
+            
             #endregion
 
             services.AddControllers();

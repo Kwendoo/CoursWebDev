@@ -1,5 +1,4 @@
-﻿
-using DataAccessLayer.Interfaces;
+﻿using DataAccessLayer.Interfaces;
 using DataAccessLayer.Models;
 using Microsoft.Extensions.Configuration;
 using System;
@@ -31,20 +30,21 @@ namespace DataAccessLayer.Services
             return new User
             {
                 Email = reader["Email"] is DBNull ? null : reader["Email"].ToString(),
-                IDataReader = (int)reader["Id"],
+                Id = (int)reader["Id"],
                 IsAdmin = (bool)reader["IsAdmin"]
-            }
+            };
         } 
 
-        public User Login(string Email, string PassWord)
+        public User Login(string Email, string Password)
         {
             Command cmd = new Command("LoginUser", true);
             cmd.AddParameter("Email", Email);
-            cmd.AddParameter("Password", PassWord);
+            cmd.AddParameter("Password", Password);
 
             _connection.Open();
             User ConnectedUser = _connection.ExecuteReader(cmd, Convert).FirstOrDefault();
             _connection.Close();
+            return ConnectedUser;
         }
 
         public void Register(string Email, string Password, bool IsAdmin)

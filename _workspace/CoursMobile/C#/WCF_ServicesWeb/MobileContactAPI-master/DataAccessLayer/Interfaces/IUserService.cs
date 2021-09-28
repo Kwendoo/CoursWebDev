@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using DataAccessLayer.Models
+using DataAccessLayer.Models;
 
 namespace DataAccessLayer.Interfaces
 {
@@ -11,6 +11,6 @@ namespace DataAccessLayer.Interfaces
     {
         void Register(string Email, string PassWrod, bool IsAdmin);
 
-        User Login (string Email, string PassWord)
+        User Login(string Email, string Password);
     }
 }
