@@ -1,0 +1,16 @@
+<clubs>
+    <club nom="les canards">
+        <membre>2</membre>
+        <membre>6</membre>
+        <membre>4</membre>
+        <membre>10</membre>
+        <membre>9</membre>
+    </club>
+    <club nom="les marsouins">
+        <membre>7</membre>
+        <membre>1</membre>
+        <membre>5</membre>
+        <membre>6</membre>
+        <membre>11</membre>
+    </club>
+</clubs>

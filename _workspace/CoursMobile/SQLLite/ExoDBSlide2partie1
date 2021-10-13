@@ -1,0 +1,29 @@
+--2.1.1
+
+-- Marche pas du remplacer F name par [F name]
+--SELECT last_name, first_name AS [F name]
+--FROM student;
+
+-- Marche
+--SELECT last_name lname, first_name AS fname
+--FROM student;
+
+-- Marche pas du remplacer || _ || par ||' _ '||
+--SELECT last_name ||'_'|| first_name AS name
+--FROM student;
+
+-- Marche pas du remplacer + par || '_' || remplacer X par * et supprimer , à la fin de result
+--SELECT last_name|| '_' ||first_name AS name, Year_result*10 AS result
+--FROM student;
+
+--2.1.2
+--SELECT first_name, birth_date, login, Year_result
+--FROM student;
+
+--2.1.3
+--SELECT first_name||' '||last_name AS [Nom complet], student_id AS ID, birth_date
+--FROM student;
+
+--2.1.4
+--SELECT student_id, first_name ||' | '|| last_name ||' | '|| birth_date ||' | '|| Year_result ||' | '|| login ||' | '|| section_id AS [Info Etudiants]
+--FROM student;

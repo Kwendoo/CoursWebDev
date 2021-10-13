@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<commandes xmlns="http://www.samples.com/commandes">
+	<commande id="CMD0001">
+		<date>2006-02-26</date>
+		<client ref="CLI0002"/>
+		<produit ref="P1" quantité="1"/>
+		<produit ref="P3" quantité="1"/>
+	</commande>
+	<commande id="CMD0002">
+		<date>2006-03-01</date>
+		<client ref="CLI0003"/>
+		<produit ref="P4" quantité="1"/>
+		<produit ref="P6" quantité="10"/>
+	</commande>
+	<commande id="CMD0003">
+		<date>2006-03-01</date>
+		<client ref="CLI0001"/>
+		<produit ref="P7" quantité="1"/>
+		<produit ref="P8" quantité="10"/>
+		<produit ref="P9" quantité="10"/>
+	</commande>
+	<commande id="CMD0004">
+		<date>2006-03-01</date>
+		<client ref="CLI0004"/>
+		<produit ref="P3" quantité="1"/>
+		<produit ref="P6" quantité="1"/>
+	</commande>
+	<commande id="CMD0005">
+		<date>2006-03-02</date>
+		<client ref="CLI0001"/>
+		<produit ref="P4" quantité="2"/>
+		<produit ref="P6" quantité="20"/>
+	</commande>
+	<commande id="CMD0006">
+		<date>2006-03-02</date>
+		<client ref="CLI0002"/>
+		<produit ref="P5" quantité="2"/>
+	</commande>
+	<commande id="CMD0007">
+		<date>2006-03-02</date>
+		<client ref="CLI0007"/>
+		<produit ref="P5" quantité="2"/>
+	</commande>
+	<commande id="CMD0008">
+		<date>2006-03-23</date>
+		<client ref="CLI0007"/>
+		<produit ref="P5" quantité="10"/>
+	</commande>
+</commandes>

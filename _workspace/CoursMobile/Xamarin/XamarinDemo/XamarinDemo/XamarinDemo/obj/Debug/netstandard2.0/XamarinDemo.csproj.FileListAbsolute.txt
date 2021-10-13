@@ -1,0 +1,16 @@
+C:\Users\Antoine\source\repos\CoursWebDev\_workspace\CoursMobile\Xamarin\XamarinDemo\XamarinDemo\XamarinDemo\bin\Debug\netstandard2.0\XamarinDemo.deps.json
+C:\Users\Antoine\source\repos\CoursWebDev\_workspace\CoursMobile\Xamarin\XamarinDemo\XamarinDemo\XamarinDemo\bin\Debug\netstandard2.0\XamarinDemo.dll
+C:\Users\Antoine\source\repos\CoursWebDev\_workspace\CoursMobile\Xamarin\XamarinDemo\XamarinDemo\XamarinDemo\bin\Debug\netstandard2.0\ref\XamarinDemo.dll
+C:\Users\Antoine\source\repos\CoursWebDev\_workspace\CoursMobile\Xamarin\XamarinDemo\XamarinDemo\XamarinDemo\bin\Debug\netstandard2.0\XamarinDemo.pdb
+C:\Users\Antoine\source\repos\CoursWebDev\_workspace\CoursMobile\Xamarin\XamarinDemo\XamarinDemo\XamarinDemo\obj\Debug\netstandard2.0\XamarinDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antoine\source\repos\CoursWebDev\_workspace\CoursMobile\Xamarin\XamarinDemo\XamarinDemo\XamarinDemo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Antoine\source\repos\CoursWebDev\_workspace\CoursMobile\Xamarin\XamarinDemo\XamarinDemo\XamarinDemo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Antoine\source\repos\CoursWebDev\_workspace\CoursMobile\Xamarin\XamarinDemo\XamarinDemo\XamarinDemo\obj\Debug\netstandard2.0\XamarinDemo.AssemblyInfoInputs.cache
+C:\Users\Antoine\source\repos\CoursWebDev\_workspace\CoursMobile\Xamarin\XamarinDemo\XamarinDemo\XamarinDemo\obj\Debug\netstandard2.0\XamarinDemo.AssemblyInfo.cs
+C:\Users\Antoine\source\repos\CoursWebDev\_workspace\CoursMobile\Xamarin\XamarinDemo\XamarinDemo\XamarinDemo\obj\Debug\netstandard2.0\XamarinDemo.csproj.CoreCompileInputs.cache
+C:\Users\Antoine\source\repos\CoursWebDev\_workspace\CoursMobile\Xamarin\XamarinDemo\XamarinDemo\XamarinDemo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Antoine\source\repos\CoursWebDev\_workspace\CoursMobile\Xamarin\XamarinDemo\XamarinDemo\XamarinDemo\obj\Debug\netstandard2.0\XamarinDemo.dll
+C:\Users\Antoine\source\repos\CoursWebDev\_workspace\CoursMobile\Xamarin\XamarinDemo\XamarinDemo\XamarinDemo\obj\Debug\netstandard2.0\ref\XamarinDemo.dll
+C:\Users\Antoine\source\repos\CoursWebDev\_workspace\CoursMobile\Xamarin\XamarinDemo\XamarinDemo\XamarinDemo\obj\Debug\netstandard2.0\XamarinDemo.pdb
+C:\Users\Antoine\source\repos\CoursWebDev\_workspace\CoursMobile\Xamarin\XamarinDemo\XamarinDemo\XamarinDemo\obj\Debug\netstandard2.0\XamarinDemo.csproj.AssemblyReference.cache
+C:\Users\Antoine\source\repos\CoursWebDev\_workspace\CoursMobile\Xamarin\XamarinDemo\XamarinDemo\XamarinDemo\bin\Debug\netstandard2.0\Images\image.png

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<company>
+    <units>
+        <unit directeur="harris.anderson">
+            <name>Service du personnel</name>
+            <members>
+                <member>harris.anderson</member>
+                <member>robert.taylor</member>
+                <member>jason.chen</member>
+                <member>brian.carter</member>
+            </members>
+        </unit>
+        <unit directeur="michelle.taylor">
+            <name>Service des achats</name>
+            <members>
+                <member>michelle.taylor</member>
+                <member>brian.carter</member>
+            </members>
+        </unit>
+    </units>
+    <persons>
+        <person id="harris.anderson">
+            <firstname>Harris</firstname>
+            <lastname>Anderson</lastname>
+            <email>harris.anderson@example.com</email>
+        </person>
+        <person id="robert.taylor">
+            <firstname>Robert</firstname>
+            <lastname>Taylor</lastname>
+            <email>robert.taylor@example.com</email>
+        </person>
+        <person id="helen.jackson">
+            <firstname>Helen</firstname>
+            <lastname>Jackson</lastname>
+            <email>hellen.jackson@example.com</email>
+        </person>
+        <person id="michelle.taylor">
+            <firstname>Michelle</firstname>
+            <lastname>Taylor</lastname>
+            <email>michelle.taylor@example.com</email>
+        </person>
+        <person id="jason.chen">
+            <firstname>Jason</firstname>
+            <lastname>Chen</lastname>
+            <email>jason.chen@example.com</email>
+        </person>
+        <person id="brian.carter">
+            <firstname>Brian</firstname>
+            <lastname>Carter</lastname>
+            <email>brian.carter@example.com</email>
+        </person>
+    </persons>
+</company>

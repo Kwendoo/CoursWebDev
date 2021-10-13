@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:pr="http://www.samples.com/produits" targetNamespace="http://www.samples.com/produits" elementFormDefault="qualified" attributeFormDefault="unqualified">
+	<xs:element name="catégories">
+		<xs:complexType>
+			<xs:sequence maxOccurs="unbounded">
+				<xs:element name="catégorie">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="nom" type="xs:string"/>
+						</xs:sequence>
+						<xs:attribute name="id" type="pr:typeCatégorie" use="required"/>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="catalogue">
+		<xs:complexType>
+			<xs:sequence maxOccurs="unbounded">
+				<xs:element ref="pr:produit"/>
+			</xs:sequence>
+		</xs:complexType>
+		<xs:key name="idProduit">
+			<xs:selector xpath="pr:produit"/>
+			<xs:field xpath="@id"/>
+		</xs:key>
+		<xs:keyref name="refProduit" refer="pr:idProduit">
+			<xs:selector xpath="pr:produit/pr:produit-lié"/>
+			<xs:field xpath="."/>
+		</xs:keyref>
+	</xs:element>
+	<xs:element name="produit">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="nom" type="pr:typeNomProduit"/>
+				<xs:element name="description" type="pr:typeDescription" minOccurs="0"/>
+				<xs:element name="prix" type="pr:typePrix" maxOccurs="unbounded"/>
+				<xs:element name="produit-lié" type="pr:refProduit" minOccurs="0" maxOccurs="unbounded"/>
+			</xs:sequence>
+			<xs:attribute name="id" type="pr:refProduit" use="required"/>
+			<xs:attribute name="catégorie" type="pr:typeCatégorie" use="required"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:simpleType name="typeCatégorie">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="matériel"/>
+			<xs:enumeration value="fourniture"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="typeNomProduit">
+		<xs:restriction base="xs:string"/>
+	</xs:simpleType>
+	<xs:complexType name="typePrix">
+		<xs:simpleContent>
+			<xs:extension base="xs:decimal">
+				<xs:attribute name="quantité" type="xs:integer"/>
+			</xs:extension>
+		</xs:simpleContent>
+	</xs:complexType>
+	<xs:simpleType name="refProduit">
+		<xs:restriction base="xs:NMTOKEN">
+			<xs:pattern value="P[0-9]+"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:complexType name="typeDescription">
+		<xs:sequence maxOccurs="unbounded">
+			<xs:element name="p" type="xs:string"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:element name="cmdProduit">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="nom" type="pr:typeNomProduit"/>
+				<xs:element name="prix" type="pr:typePrix"/>
+			</xs:sequence>
+			<xs:attribute name="id" type="pr:refProduit" use="required"/>
+			<xs:attribute name="quantité" type="xs:integer" use="required"/>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

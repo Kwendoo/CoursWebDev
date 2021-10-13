@@ -1,0 +1,28 @@
+--2.4.2
+--SELECT section_id, MAX(year_result) AS [Résultat maximum]
+--FROM student
+--GROUP BY section_id;
+
+--2.4.3
+--SELECT section_id, AVG(year_result) AS [Moyenne]
+--FROM student
+--WHERE section_id LIKE '10%'
+--GROUP BY section_id;
+
+--2.4.4
+--SELECT STRFTIME('%m', birth_date) AS [Mois de naissance], AVG(year_result) AS [Moyenne]
+--FROM student
+--WHERE STRFTIME('%Y', birth_date) BETWEEN '1970' AND '1985'
+--GROUP BY STRFTIME('%m', birth_date);
+
+--2.4.5
+--SELECT section_id, AVG(year_result) AS [Moyenne]
+--FROM student
+--GROUP BY section_id
+--HAVING COUNT(last_name) > 3;
+
+--2.4.6
+--SELECT section_id, AVG(year_result) AS [Moyenne], MAX(year_result) AS [Maximum]
+--FROM student
+--GROUP BY section_id
+--HAVING AVG(year_result) > 8

@@ -1,0 +1,111 @@
+--2.3.1
+--SELECT AVG(year_result) AS [Moyenne globale]
+--FROM student
+
+--2.3.2
+--SELECT MAX(year_result)  AS [Meilleur résultat de l'année]
+--FROM student;
+
+--2.3.3
+--SELECT SUM(year_result) AS [Somme des résultat de l'année]
+--FROM student;
+
+--2.3.4
+--SELECT MIN(year_result) AS [Plus faible résultat de l'année]
+--FROM student;
+
+--2.3.5
+--SELECT COUNT(student_id) AS [Nombre d'étudiants dans la liste]
+--FROM student;
+
+--2.3.6
+--SELECT login, STRFTIME('%Y', birth_date) AS [Année de naissance]
+--FROM student
+--WHERE STRFTIME('%Y', birth_date) > '1970';
+
+--2.3.7
+--SELECT login, last_name
+--FROM student
+--WHERE LENGTH(last_name) >= 8;
+
+--2.3.8
+--SELECT UPPER(last_name) AS [Nom de famille], first_name, year_result
+--FROM student
+--WHERE year_result >= 16
+--ORDER BY year_result DESC;
+
+--2.3.9
+--SELECT first_name, last_name, login, 
+--      LOWER(
+--      SUBSTR((first_name, 1, 2)||SUBSTR(last_name, 1, 4))
+--      ) AS [New login]
+--FROM student
+--WHERE year_result BETWEEN 6 AND 10;
+
+--2.3.10
+--SELECT first_name, last_name, login, 
+--        SUBSTR(first_name, -3)||''||(STRFTIME('%Y','now')-STRFTIME('%Y', birth_date)) 
+--        AS [New login]
+--FROM student
+--WHERE year_result IN (10,12,14);
+
+--2.3.11
+--SELECT last_name, login, year_result
+--FROM student
+--WHERE last_name LIKE 'D%' OR last_name LIKE 'S%' OR last_name LIKE 'M%'
+--ORDER BY year_result ASC;
+
+--2.3.12
+--SELECT last_name, login, year_result
+--FROM student
+--WHERE year_result%2 != 0 AND year_result > 10
+--ORDER BY year_result DESC;
+
+--2.3.13
+--SELECT COUNT (last_name) AS [Nbr de noms de plus de 7 lettres]
+--FROM student
+--WHERE LENGTH(last_name) >= 7;
+
+--2.3.14
+--SELECT last_name, year_result,
+--CASE
+--    WHEN year_result >12 then 'OK'
+--    ELSE 'KO' 
+--END AS Statut 
+--FROM student 
+--WHERE strftime('%Y',birth_date) < '1955';
+
+--2.3.15
+--SELECT last_name, year_result,
+--CASE
+--    WHEN year_result < 10 THEN 'inférieur'
+--    WHEN year_result == 10 THEN 'neutre'
+--    ELSE 'supérieur'
+--END AS [Catégorie]
+--FROM student 
+--WHERE strftime('%Y', birth_date) between '1955' and '1965';
+
+--2.3.16
+--SELECT last_name, year_result, strftime('%d', birth_date) || ' ' ||
+--CASE strftime('%m', birth_date)
+--    WHEN '01' THEN 'janvier'
+--    WHEN '02' THEN 'février'
+--    WHEN '03' THEN 'mars'
+--    WHEN '04' THEN 'avril'
+--    WHEN '05' THEN 'mai'
+--    WHEN '06' THEN 'juin'
+--    WHEN '07' THEN 'juillet'
+--    WHEN '08' THEN 'août'
+--    WHEN '09' THEN 'septembre'
+--    WHEN '10' THEN 'octobre'
+--    WHEN '11' THEN 'novembre'
+--    ELSE 'décembre'
+--AND || ' ' || strftime('%Y', birth_date) AS [Litteral_date]
+--FROM student 
+--WHERE strftime('%Y', birth_date) BETWEEN '1975' AND '1985';
+
+--2.3.17
+SELECT last_name, strftime('%m',birth_date) AS [Mois de naissance], year_result,
+        NULLIF(year_result, 4) AS[Nouveau résultat]
+FROM student
+WHERE strftime('%m',birth_date) NOT IN ('12', '01', '02', '03') AND year_result < 7;

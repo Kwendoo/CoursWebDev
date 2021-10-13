@@ -12,10 +12,10 @@ namespace DemoAPI.Tools
 {
     public class TokenManager : ITokenManager
     {
-        public static string secret = "MiguelDelavegasEvans";
-        // Domaine du serveur hébergeant l'API
+        public static string secret = "Ce que vous voulez";
+        //Domaine du serveur hébergeant l'api
         public static string issuer = "myapi.com";
-        //Domaine du/des serveur appelant l'API
+        //Domaine du/des serveur(s) appelant l'api
         public static string audience = "myconso.com";
 
         public string GenerateJWT(User user)
@@ -23,23 +23,20 @@ namespace DemoAPI.Tools
             if (user is null)
                 throw new InvalidOperationException();
 
-            // Création des crédentials
-
+            //Création des crédentials
             SymmetricSecurityKey securityKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(secret));
             SigningCredentials credentials = new SigningCredentials(securityKey, SecurityAlgorithms.HmacSha512);
 
-            // Création de l'objet accueillant les utilisateurs + info token
-
-            Claim[] myClaim = new[]
+            //creer l'objet accueillant les info utilisateur + info token
+            Claim[] myClaims = new[]
             {
                 new Claim(ClaimTypes.Role, user.IsAdmin ? "admin" : "user"),
                 new Claim("UserId", user.Id.ToString())
             };
 
-            // Génération du token
-
+            //Generation du token => nuget System.IdentityModel.Tokens.Jwt;
             JwtSecurityToken token = new JwtSecurityToken(
-                claims: myClaim,
+                claims: myClaims,
                 signingCredentials: credentials,
                 expires: DateTime.Now.AddDays(1),
                 issuer: issuer,
@@ -47,8 +44,8 @@ namespace DemoAPI.Tools
                 );
 
             JwtSecurityTokenHandler handler = new JwtSecurityTokenHandler();
-
             return handler.WriteToken(token);
+
         }
     }
 }

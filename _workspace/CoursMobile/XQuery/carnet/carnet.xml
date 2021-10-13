@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="carnet1.xsl"?>
+<carnet>
+  <personne titre="M.">
+    <nom>Bernard</nom>
+    <prenom>John</prenom>
+    <adresse>
+      <rue>Rue du canal</rue>
+      <numero>2</numero>
+      <zip>1140</zip>
+      <commune>Chenois</commune>
+    </adresse>
+  </personne>
+
+  <personne titre="Mme">
+    <nom>Durand</nom>
+    <prenom>Elise</prenom>
+    <adresse>
+      <rue>Avenue Churchill</rue>
+      <numero>23</numero>
+      <zip>1180</zip>
+      <commune>Uccle</commune>
+    </adresse>
+  </personne>
+
+  <personne titre="Mme">
+    <nom>Gobbe</nom>
+    <prenom>Nathalie</prenom>
+    <adresse>
+      <rue>Rue de la gare</rue>
+      <numero>42</numero>
+      <zip>6041</zip>
+      <commune>Gosselies</commune>
+    </adresse>
+  </personne>
+
+  <personne titre="Mme">
+    <nom>Gobbe</nom>
+    <prenom>Jean-Luc</prenom>
+    <adresse>
+      <rue>Rue de la gare</rue>
+      <numero>42</numero>
+      <zip>1070</zip>
+      <commune>Etterbeek</commune>
+    </adresse>
+  </personne>
+
+  <personne titre="Mme">
+    <nom>Bareel</nom>
+    <prenom>Valérie</prenom>
+    <adresse>
+      <rue>Avenue des pinsons</rue>
+      <numero>23a</numero>
+      <zip>1180</zip>
+      <commune>Uccle</commune>
+    </adresse>
+  </personne>
+
+  <personne titre="M.">
+    <nom>Albert</nom>
+    <prenom>Marc</prenom>
+    <adresse>
+      <rue>Rue longue</rue>
+      <numero>122</numero>
+      <zip>1050</zip>
+      <commune>Ixelles</commune>
+    </adresse>
+  </personne>
+
+  <personne titre="M.">
+    <nom>Declerck</nom>
+    <prenom>Serge</prenom>
+    <adresse>
+      <rue>Rue basse</rue>
+      <numero>134</numero>
+      <zip>1050</zip>
+      <commune>Ixelles</commune>
+    </adresse>
+  </personne>
+
+  <personne titre="Mlle">
+    <nom>Dumont</nom>
+    <prenom>Julie</prenom>
+    <adresse>
+      <rue>Boulevard du triomphe</rue>
+      <numero>6</numero>
+      <zip>1140</zip>
+      <commune>Chenois</commune>
+    </adresse>
+  </personne>
+
+  <personne titre="Mlle">
+    <nom>Jansens</nom>
+    <prenom>Sophie</prenom>
+    <adresse>
+      <rue>Avenue F.D. Roosevelt</rue>
+      <numero>6</numero>
+      <zip>1180</zip>
+      <commune>Uccle</commune>
+    </adresse>
+  </personne>
+
+  <personne titre="M.">
+    <nom>Pireaux</nom>
+    <prenom>Eric</prenom>
+    <adresse>
+      <rue>Rue Jules Blase</rue>
+      <numero>432</numero>
+      <zip>6041</zip>
+      <commune>Gosselies</commune>
+    </adresse>
+  </personne>
+
+  <personne titre="Mme">
+    <nom>Da vinci</nom>
+    <prenom>Martine</prenom>
+    <adresse>
+      <rue>Rue Ferdinand Bracke</rue>
+      <numero>32</numero>
+      <zip>6041</zip>
+      <commune>Gosselies</commune>
+    </adresse>
+  </personne>
+
+
+</carnet>

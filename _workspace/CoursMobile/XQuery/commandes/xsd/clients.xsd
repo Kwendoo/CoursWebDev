@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:cli="http://www.samples.com/clients" targetNamespace="http://www.samples.com/clients" elementFormDefault="qualified" attributeFormDefault="unqualified">
+	<xs:element name="clients">
+		<xs:complexType>
+			<xs:sequence maxOccurs="unbounded">
+				<xs:element ref="cli:client"/>
+			</xs:sequence>
+		</xs:complexType>
+		<xs:key name="idClient">
+			<xs:selector xpath="cli:client"/>
+			<xs:field xpath="@id"/>
+		</xs:key>
+	</xs:element>
+	<xs:element name="client">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="nom" type="xs:string"/>
+				<xs:element ref="cli:tva" minOccurs="0"/>
+				<xs:element name="adresse-livraison" type="cli:typeAdresse"/>
+				<xs:element name="adresse-facturation" type="cli:typeAdresse" nillable="true"/>
+			</xs:sequence>
+			<xs:attribute name="id" type="cli:refClient" use="required"/>
+			<xs:attribute name="type" type="cli:typeClient" use="required"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:simpleType name="refClient">
+		<xs:restriction base="xs:NMTOKEN">
+			<xs:pattern value="CLI[0-9]+"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="typeClient">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="privé"/>
+			<xs:enumeration value="société"/>
+			<xs:enumeration value="indépendant"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:element name="tva" type="cli:typeTVA"/>
+	<xs:simpleType name="typeTVA">
+		<xs:restriction base="xs:string">
+			<xs:pattern value="[A-Z]{2,3} [0-9\-]+"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:complexType name="typeAdresse">
+		<xs:sequence>
+			<xs:element name="nom" type="xs:string" minOccurs="0"/>
+			<xs:element name="adresse" type="xs:string"/>
+			<xs:element ref="cli:zip"/>
+			<xs:element name="localité" type="xs:string"/>
+			<xs:element name="pays" type="xs:string"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:element name="zip" type="xs:string" abstract="true"/>
+	<xs:element name="zip-fr" substitutionGroup="cli:zip">
+		<xs:simpleType>
+			<xs:restriction base="xs:string">
+				<xs:pattern value="[0-9]{5}"/>
+			</xs:restriction>
+		</xs:simpleType>
+	</xs:element>
+	<xs:element name="zip-be" substitutionGroup="cli:zip">
+		<xs:simpleType>
+			<xs:restriction base="xs:string">
+				<xs:pattern value="[0-9]{4}"/>
+			</xs:restriction>
+		</xs:simpleType>
+	</xs:element>
+</xs:schema>

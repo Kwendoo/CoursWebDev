@@ -1,0 +1,18 @@
+body {
+    font-family: Arial;
+    height:100%;
+}
+.horloge {
+    margin-top: 10%;
+    width: 100%;
+    text-align: center;
+}
+.data {
+    padding: 8px;
+    border-style: solid;
+    border-color: #4466AA;
+    border-width: 1px;
+    color: #4466AA;
+    font-size: 48pt;
+    font-weight: bold;
+}

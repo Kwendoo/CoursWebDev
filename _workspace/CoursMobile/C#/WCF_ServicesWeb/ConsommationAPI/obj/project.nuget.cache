@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "t215z5we5qJPTRu9Cw5Of3pg/a+HzwcS7V3oB7kOMLfGXlHHLTADOM3JMEqwh2gtugkX5PpoE4Fj0A5+xmdi8g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Antoine\\source\\repos\\CoursWebDev\\_workspace\\CoursMobile\\C#\\WCF_ServicesWeb\\ConsommationAPI\\ConsommationAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Antoine\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Antoine\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.12.2\\microsoft.identitymodel.jsonwebtokens.6.12.2.nupkg.sha512",
+    "C:\\Users\\Antoine\\.nuget\\packages\\microsoft.identitymodel.logging\\6.12.2\\microsoft.identitymodel.logging.6.12.2.nupkg.sha512",
+    "C:\\Users\\Antoine\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.12.2\\microsoft.identitymodel.tokens.6.12.2.nupkg.sha512",
+    "C:\\Users\\Antoine\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Antoine\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.12.2\\system.identitymodel.tokens.jwt.6.12.2.nupkg.sha512",
+    "C:\\Users\\Antoine\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

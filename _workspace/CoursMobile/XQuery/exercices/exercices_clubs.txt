@@ -1,0 +1,100 @@
+
+Dressez la liste de tous les membres:
+
+<membres>
+    <membre>Durand Elise</membre>
+    <membre>Albert Marc</membre>
+    <membre>Gobbe Jean-Luc</membre>
+    <membre>Pireaux Eric</membre>
+    <membre>Jansens Sophie</membre>
+    <membre>Declerck Serge</membre>
+    <membre>Bernard John</membre>
+    <membre>Bareel Valérie</membre>
+    <membre>Albert Marc</membre>
+    <membre>Da vinci Martine</membre>
+</membres>
+
+
+Ajoutez le nom du club:
+
+<membres>
+    <membre club="les canards">Durand Elise</membre>
+    <membre club="les canards">Albert Marc</membre>
+    <membre club="les canards">Gobbe Jean-Luc</membre>
+    <membre club="les canards">Pireaux Eric</membre>
+    <membre club="les canards">Jansens Sophie</membre>
+    <membre club="les marsouins">Declerck Serge</membre>
+    <membre club="les marsouins">Bernard John</membre>
+    <membre club="les marsouins">Bareel Valérie</membre>
+    <membre club="les marsouins">Albert Marc</membre>
+    <membre club="les marsouins">Da vinci Martine</membre>
+</membres>
+
+
+Regroupez les membres par club:
+
+<membres>
+    <club nom="les canards">
+        <membre>Durand Elise</membre>
+        <membre>Albert Marc</membre>
+        <membre>Gobbe Jean-Luc</membre>
+        <membre>Pireaux Eric</membre>
+        <membre>Jansens Sophie</membre>
+    </club>
+    <club nom="les marsouins">
+        <membre>Declerck Serge</membre>
+        <membre>Bernard John</membre>
+        <membre>Bareel Valérie</membre>
+        <membre>Albert Marc</membre>
+        <membre>Da vinci Martine</membre>
+    </club>
+</membres>
+
+
+A l'inverse, dressez la liste des membres en ajoutant la liste des clubs dont ils font partie:
+
+<membres>
+    <membre>
+        <nom>Bernard John</nom>
+        <club nom="les marsouins"/>
+    </membre>
+    <membre>
+        <nom>Durand Elise</nom>
+        <club nom="les canards"/>
+    </membre>
+    <membre>
+        <nom>Gobbe Nathalie</nom>
+    </membre>
+    <membre>
+        <nom>Gobbe Jean-Luc</nom>
+        <club nom="les canards"/>
+    </membre>
+    <membre>
+        <nom>Bareel Valérie</nom>
+        <club nom="les marsouins"/>
+    </membre>
+    <membre>
+        <nom>Albert Marc</nom>
+        <club nom="les canards"/>
+        <club nom="les marsouins"/>
+    </membre>
+    <membre>
+        <nom>Declerck Serge</nom>
+        <club nom="les marsouins"/>
+    </membre>
+    <membre>
+        <nom>Dumont Julie</nom>
+    </membre>
+    <membre>
+        <nom>Jansens Sophie</nom>
+        <club nom="les canards"/>
+    </membre>
+    <membre>
+        <nom>Pireaux Eric</nom>
+        <club nom="les canards"/>
+    </membre>
+    <membre>
+        <nom>Da vinci Martine</nom>
+        <club nom="les marsouins"/>
+    </membre>
+</membres>

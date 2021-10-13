@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XamarinDemo.MainPage"
+             xmlns:extension ="clr-namespace:XamarinDemo.Extentions">
+
+    <ScrollView>
+        <StackLayout>
+            <Label FontSize="Large" BackgroundColor="BlueViolet" Text="Salut"/>
+
+            <Button HeightRequest="100" BorderWidth="4" Text="Click ici test" />
+            <DatePicker MinimumDate="2021-01-01" MaximumDate="2021-12-31"></DatePicker>
+            <Entry IsPassword="True" BackgroundColor="Chartreuse" Keyboard="Numeric"></Entry>
+            <Entry Keyboard="Email"></Entry>
+            <Entry Keyboard="Url"></Entry>
+            <Entry Placeholder="Entrez votre numero de telephone" Keyboard="Telephone"></Entry>
+            <Picker>
+                <Picker.Items>
+                    <x:String>Pemier item</x:String>
+                    <x:String>2 item</x:String>
+                    <x:String>3 item</x:String>
+                </Picker.Items>
+            </Picker>
+            <Slider x:Name="Slider" Minimum="0" Maximum="10" Value="5" />
+            <Label Text="{Binding Source={x:Reference Slider}, Path=Value}"></Label>
+
+            <Grid BackgroundColor="CadetBlue">
+                <Grid.RowDefinitions>
+                    <RowDefinition />
+                    <RowDefinition />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="2*"/>
+                    <ColumnDefinition Width="3*"/>
+                </Grid.ColumnDefinitions>
+                <Label Grid.Row="1" Grid.Column="1" Text="Label" BackgroundColor="Coral" FontSize="16" />
+                <Button Clicked="Button_Clicked" Grid.ColumnSpan="2" Text="Super bouton"></Button>
+            </Grid>
+
+            <Image Source="{extension:EmbeddedImage Ressource=XamarinDemo.Images.image.png}"></Image>
+
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

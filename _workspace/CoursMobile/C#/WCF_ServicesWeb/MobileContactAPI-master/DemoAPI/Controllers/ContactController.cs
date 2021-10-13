@@ -14,7 +14,7 @@ using Microsoft.AspNetCore.Authorization;
 
 namespace DemoAPI.Controllers
 {
-    [Authorize("user")]
+   // [Authorize("user")]
     [Route("api/[controller]")]
     [ApiController]
     public class ContactController : ControllerBase
@@ -27,7 +27,7 @@ namespace DemoAPI.Controllers
         }
 
         //https://localhost:port/api/contact
-        [AllowAnonymous]
+        [Authorize("user")]
         [HttpGet]
         public IActionResult GetAll()
         {
@@ -42,6 +42,7 @@ namespace DemoAPI.Controllers
         }
 
         //https://localhost:port/api/contact/1
+        
         [HttpGet("{Id}")]
         public IActionResult GetById(int Id)
         {
@@ -77,7 +78,7 @@ namespace DemoAPI.Controllers
 
         //https://localhost:port/api/contact/1
         [Authorize("admin")]
-        [HttpDelete("{Id}")]
+        [HttpDelete("{id}")]
         public IActionResult Suppression(int Id)
         {
             if(_service.Delete(Id))

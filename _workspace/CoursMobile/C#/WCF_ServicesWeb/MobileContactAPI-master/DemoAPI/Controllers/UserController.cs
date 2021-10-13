@@ -1,13 +1,13 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using DataAccessLayer.Interfaces;
+using DataAccessLayer.Models;
+using DemoAPI.Models;
+using DemoAPI.Tools;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using DemoAPI.Models;
-using DataAccessLayer.Interfaces;
-using DataAccessLayer.Models;
-using DemoAPI.Tools;
 
 namespace DemoAPI.Controllers
 {
@@ -27,10 +27,19 @@ namespace DemoAPI.Controllers
         [HttpPost("login")]
         public IActionResult Login(LoginForm form)
         {
-            User CurrentUser = _userService.Login(form.Email, form.Password);
-            string token = _tokenManager.GenerateJWT(CurrentUser);
+            User currentUser = _userService.Login(form.Email, form.Password);
 
-            return Ok(token);
+            string token = _tokenManager.GenerateJWT(currentUser);
+
+            UserWithToken u = new UserWithToken
+            {
+                Id = currentUser.Id,
+                Email = currentUser.Email,
+                IsAdmin = currentUser.IsAdmin,
+                Token = token
+            };
+
+            return Ok(u);
         }
 
         [HttpPost("register")]

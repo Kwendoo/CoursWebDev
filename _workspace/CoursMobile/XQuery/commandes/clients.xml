@@ -1,0 +1,77 @@
+﻿<clients xmlns="http://www.samples.com/clients">
+	<client id="CLI0001" type="société">
+		<nom>Clinique Saint-Paul</nom>
+		<tva>FR 22-424-761-419-00000</tva>
+		<adresse-livraison>
+			<adresse>Boulevard du Mail 16</adresse>
+			<zip-fr>89100</zip-fr>
+			<localité>Sens</localité>
+			<pays>France</pays>
+		</adresse-livraison>
+	</client>
+	<client id="CLI0002" type="indépendant">
+		<nom>Marc Albert</nom>
+		<tva>BE 32-424-745-201-45454</tva>
+		<adresse-livraison>
+			<adresse>Boulevard des archers 16</adresse>
+			<zip-be>4100</zip-be>
+			<localité>Nivelles</localité>
+			<pays>Belgique</pays>
+		</adresse-livraison>
+	</client>
+	<client id="CLI0003" type="privé">
+		<nom>Libert Luc</nom>
+		<adresse-livraison>
+			<adresse>Rue longue 112</adresse>
+			<zip-be>1800</zip-be>
+			<localité>Uccle</localité>
+			<pays>Belgique</pays>
+		</adresse-livraison>
+	</client>
+	<client id="CLI0004" type="indépendant">
+		<nom>Declerck Serge</nom>
+		<tva>FR 18-123-756-999-34432</tva>
+		<adresse-livraison>
+			<adresse>Rue du pont 12</adresse>
+			<zip-fr>45400</zip-fr>
+			<localité>Benodet</localité>
+			<pays>France</pays>
+		</adresse-livraison>
+	</client>
+	<client id="CLI0005" type="société">
+		<nom>Clip-Art sa</nom>
+		<tva>FR 18-678-761-987-00223</tva>
+		<adresse-livraison>
+			<nom>Magasins généraux</nom>
+			<adresse>Avenue Mermoz 661</adresse>
+			<zip-fr>75005</zip-fr>
+			<localité>Paris</localité>
+			<pays>France</pays>
+		</adresse-livraison>
+		<adresse-facturation>
+			<nom>Service comptabilité</nom>
+			<adresse>Avenue Mermoz 663</adresse>
+			<zip-fr>75005</zip-fr>
+			<localité>Paris</localité>
+			<pays>France</pays>
+		</adresse-facturation>
+	</client>
+	<client id="CLI0006" type="privé">
+		<nom>Lavigne Gilbert</nom>
+		<adresse-livraison>
+			<adresse>Rue de la gare 11</adresse>
+			<zip-be>1180</zip-be>
+			<localité>Bruxelles</localité>
+			<pays>Belgique</pays>
+		</adresse-livraison>
+	</client>
+	<client id="CLI0007" type="privé">
+		<nom>Tassin René</nom>
+		<adresse-livraison>
+			<adresse>Rue de Livourne 11</adresse>
+			<zip-fr>59800</zip-fr>
+			<localité>Lille</localité>
+			<pays>France</pays>
+		</adresse-livraison>
+	</client>
+</clients>

@@ -1,0 +1,112 @@
+<membres>
+    <membre titre="M." id="1">
+        <nom>Bernard</nom>
+        <prenom>John</prenom>
+        <adresse>
+            <rue>Rue du canal</rue>
+            <numero>2</numero>
+            <zip>1140</zip>
+            <commune>Chenois</commune>
+        </adresse>
+    </membre>
+    <membre titre="Mme" id="2">
+        <nom>Durand</nom>
+        <prenom>Elise</prenom>
+        <adresse>
+            <rue>Avenue Churchill</rue>
+            <numero>23</numero>
+            <zip>1180</zip>
+            <commune>Uccle</commune>
+        </adresse>
+    </membre>
+    <membre titre="Mme" id="3">
+        <nom>Gobbe</nom>
+        <prenom>Nathalie</prenom>
+        <adresse>
+            <rue>Rue de la gare</rue>
+            <numero>42</numero>
+            <zip>6041</zip>
+            <commune>Gosselies</commune>
+        </adresse>
+    </membre>
+    <membre titre="Mme" id="4">
+        <nom>Gobbe</nom>
+        <prenom>Jean-Luc</prenom>
+        <adresse>
+            <rue>Rue de la gare</rue>
+            <numero>42</numero>
+            <zip>1070</zip>
+            <commune>Etterbeek</commune>
+        </adresse>
+    </membre>
+    <membre titre="Mme" id="5">
+        <nom>Bareel</nom>
+        <prenom>Valérie</prenom>
+        <adresse>
+            <rue>Avenue des pinsons</rue>
+            <numero>23a</numero>
+            <zip>1180</zip>
+            <commune>Uccle</commune>
+        </adresse>
+    </membre>
+    <membre titre="M." id="6">
+        <nom>Albert</nom>
+        <prenom>Marc</prenom>
+        <adresse>
+            <rue>Rue longue</rue>
+            <numero>122</numero>
+            <zip>1050</zip>
+            <commune>Ixelles</commune>
+        </adresse>
+    </membre>
+    <membre titre="M." id="7">
+        <nom>Declerck</nom>
+        <prenom>Serge</prenom>
+        <adresse>
+            <rue>Rue basse</rue>
+            <numero>134</numero>
+            <zip>1050</zip>
+            <commune>Ixelles</commune>
+        </adresse>
+    </membre>
+    <membre titre="Mlle" id="8">
+        <nom>Dumont</nom>
+        <prenom>Julie</prenom>
+        <adresse>
+            <rue>Boulevard du triomphe</rue>
+            <numero>6</numero>
+            <zip>1140</zip>
+            <commune>Chenois</commune>
+        </adresse>
+    </membre>
+    <membre titre="Mlle" id="9">
+        <nom>Jansens</nom>
+        <prenom>Sophie</prenom>
+        <adresse>
+            <rue>Avenue F.D. Roosevelt</rue>
+            <numero>6</numero>
+            <zip>1180</zip>
+            <commune>Uccle</commune>
+        </adresse>
+    </membre>
+    <membre titre="M." id="10">
+        <nom>Pireaux</nom>
+        <prenom>Eric</prenom>
+        <adresse>
+            <rue>Rue Jules Blase</rue>
+            <numero>432</numero>
+            <zip>6041</zip>
+            <commune>Gosselies</commune>
+        </adresse>
+    </membre>
+    <membre titre="Mme" id="11">
+        <nom>Da vinci</nom>
+        <prenom>Martine</prenom>
+        <adresse>
+            <rue>Rue Ferdinand Bracke</rue>
+            <numero>32</numero>
+            <zip>6041</zip>
+            <commune>Gosselies</commune>
+        </adresse>
+    </membre>
+</membres>

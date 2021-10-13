@@ -1,0 +1,263 @@
+Obtenir la liste des clients (attention à l'espace de noms):
+
+<clients>
+    <client>Clinique Saint-Paul</client>
+    <client>Marc Albert</client>
+    <client>Libert Luc</client>
+    <client>Declerck Serge</client>
+    <client>Clip-Art sa</client>
+    <client>Lavigne Gilbert</client>
+    <client>Tassin René</client>
+</clients>
+
+
+
+Idem, mais triée par ordre alphabétique:
+
+<clients>
+    <client>Clinique Saint-Paul</client>
+    <client>Clip-Art sa</client>
+    <client>Declerck Serge</client>
+    <client>Lavigne Gilbert</client>
+    <client>Libert Luc</client>
+    <client>Marc Albert</client>
+    <client>Tassin René</client>
+</clients>
+
+
+
+Idem, mais en placant les clients dans des catégories différentes (il faut ici utiliser un constructeur 
+d'élément "calculé" qui calcule le nom d'une balise à l'aide d'accolades):
+
+<clients>
+  <société>
+    <client>Clinique Saint-Paul</client>
+    <client>Clip-Art sa</client>
+  </société>
+  <indépendant>
+    <client>Declerck Serge</client>
+    <client>Marc Albert</client>
+  </indépendant>
+  <privé>
+    <client>Lavigne Gilbert</client>
+    <client>Libert Luc</client>
+    <client>Tassin René</client>
+  </privé>
+</clients>
+
+
+
+Obtenir la liste des clients en les classant par pays:
+
+<clients>
+    <Belgique>
+        <client>Marc Albert</client>
+        <client>Libert Luc</client>
+        <client>Lavigne Gilbert</client>
+    </Belgique>
+    <France>
+        <client>Clinique Saint-Paul</client>
+        <client>Declerck Serge</client>
+        <client>Clip-Art sa</client>
+        <client>Tassin René</client>
+    </France>
+</clients>
+
+
+Idem, mais ajouter la tva si elle existe:
+
+<clients>
+    <Belgique>
+        <client tva="BE 32-424-745-201-45454">Marc Albert</client>
+        <client>Libert Luc</client>
+        <client>Lavigne Gilbert</client>
+    </Belgique>
+    <France>
+        <client tva="FR 22-424-761-419-00000">Clinique Saint-Paul</client>
+        <client tva="FR 18-123-756-999-34432">Declerck Serge</client>
+        <client tva="FR 18-678-761-987-00223">Clip-Art sa</client>
+        <client>Tassin René</client>
+    </France>
+</clients>
+
+
+
+Obtenir la liste des produits:
+
+<produits>
+    <produit>Agrafes pour agrafeuses 24/6mm</produit>
+    <produit>Agrafes pour agrafeuses 24/8mm</produit>
+    <produit>Agrafeuse manuelle - modèle Rapid Z1</produit>
+    <produit>Agrafeuse électrique - modèle Rapid Z20</produit>
+    <produit>Baguette pour reliure perforée 21 anneaux - 11mm</produit>
+    <produit>Baguette pour reliure perforée 21 anneaux - 9mm</produit>
+    <produit>Perforatrice de bureau - Buromat 6544</produit>
+    <produit>Perforatrice de bureau - Buromat 6545</produit>
+    <produit>Relieuse spirale (21 anneaux) - Rapid 200</produit>
+</produits>
+
+
+
+Idem en ajoutant le code:
+
+<produits>
+    <produit code="P5">Agrafes pour agrafeuses 24/6mm</produit>
+    <produit code="P6">Agrafes pour agrafeuses 24/8mm</produit>
+    <produit code="P3">Agrafeuse manuelle - modèle Rapid Z1</produit>
+    <produit code="P4">Agrafeuse électrique - modèle Rapid Z20</produit>
+    <produit code="P9">Baguette pour reliure perforée 21 anneaux - 11mm</produit>
+    <produit code="P8">Baguette pour reliure perforée 21 anneaux - 9mm</produit>
+    <produit code="P1">Perforatrice de bureau - Buromat 6544</produit>
+    <produit code="P2">Perforatrice de bureau - Buromat 6545</produit>
+    <produit code="P7">Relieuse spirale (21 anneaux) - Rapid 200</produit>
+</produits>
+
+
+
+Idem en classant les produits par catégorie (utilisez les deux documents XML):
+
+<produits>
+    <catégorie nom="Fournitures de bureau">
+        <produit code="P5">Agrafes pour agrafeuses 24/6mm</produit>
+        <produit code="P6">Agrafes pour agrafeuses 24/8mm</produit>
+        <produit code="P9">Baguette pour reliure perforée 21 anneaux - 11mm</produit>
+        <produit code="P8">Baguette pour reliure perforée 21 anneaux - 9mm</produit>
+    </catégorie>
+    <catégorie nom="Matériels de bureau">
+        <produit code="P3">Agrafeuse manuelle - modèle Rapid Z1</produit>
+        <produit code="P4">Agrafeuse électrique - modèle Rapid Z20</produit>
+        <produit code="P1">Perforatrice de bureau - Buromat 6544</produit>
+        <produit code="P2">Perforatrice de bureau - Buromat 6545</produit>
+        <produit code="P7">Relieuse spirale (21 anneaux) - Rapid 200</produit>
+    </catégorie>
+</produits>
+
+
+
+La liste des produits avec le nom suivi entre parenthèses de la catégorie:
+
+<produits>
+    <produit code="P5">Agrafes pour agrafeuses 24/6mm (Fournitures de bureau)</produit>
+    <produit code="P6">Agrafes pour agrafeuses 24/8mm (Fournitures de bureau)</produit>
+    <produit code="P8">Baguette pour reliure perforée 21 anneaux - 9mm (Fournitures de bureau)</produit>
+    <produit code="P9">Baguette pour reliure perforée 21 anneaux - 11mm (Fournitures de bureau)</produit>
+    <produit code="P1">Perforatrice de bureau - Buromat 6544 (Matériels de bureau)</produit>
+    <produit code="P2">Perforatrice de bureau - Buromat 6545 (Matériels de bureau)</produit>
+    <produit code="P3">Agrafeuse manuelle - modèle Rapid Z1 (Matériels de bureau)</produit>
+    <produit code="P4">Agrafeuse électrique - modèle Rapid Z20 (Matériels de bureau)</produit>
+    <produit code="P7">Relieuse spirale (21 anneaux) - Rapid 200 (Matériels de bureau)</produit>
+</produits>
+
+
+
+Mettre la liste des produits précédente dans une variable et l'utiliser pour dresser la
+liste des commandes de la manière suivante:
+
+<commandes>
+    <commande id="CMD0001">
+        <produit quantité="1">Perforatrice de bureau - Buromat 6544 (Matériels de bureau)</produit>
+        <produit quantité="1">Agrafeuse manuelle - modèle Rapid Z1 (Matériels de bureau)</produit>
+    </commande>
+    <commande id="CMD0002">
+        <produit quantité="1">Agrafeuse électrique - modèle Rapid Z20 (Matériels de bureau)</produit>
+        <produit quantité="10">Agrafes pour agrafeuses 24/8mm (Fournitures de bureau)</produit>
+    </commande>
+    <commande id="CMD0003">
+        <produit quantité="1">Relieuse spirale (21 anneaux) - Rapid 200 (Matériels de bureau)</produit>
+        <produit quantité="10">Baguette pour reliure perforée 21 anneaux - 9mm (Fournitures de bureau)</produit>
+        <produit quantité="10">Baguette pour reliure perforée 21 anneaux - 11mm (Fournitures de bureau)</produit>
+    </commande>
+    <commande id="CMD0004">
+        <produit quantité="1">Agrafeuse manuelle - modèle Rapid Z1 (Matériels de bureau)</produit>
+        <produit quantité="1">Agrafes pour agrafeuses 24/8mm (Fournitures de bureau)</produit>
+    </commande>
+    <commande id="CMD0005">
+        <produit quantité="2">Agrafeuse électrique - modèle Rapid Z20 (Matériels de bureau)</produit>
+        <produit quantité="20">Agrafes pour agrafeuses 24/8mm (Fournitures de bureau)</produit>
+    </commande>
+    <commande id="CMD0006">
+        <produit quantité="2">Agrafes pour agrafeuses 24/6mm (Fournitures de bureau)</produit>
+    </commande>
+    <commande id="CMD0007">
+        <produit quantité="2">Agrafes pour agrafeuses 24/6mm (Fournitures de bureau)</produit>
+    </commande>
+    <commande id="CMD0008">
+        <produit quantité="10">Agrafes pour agrafeuses 24/6mm (Fournitures de bureau)</produit>
+    </commande>
+</commandes>
+
+
+
+Pour les fortiches, ajouter à la liste des commandes le prix des produits (en tenant
+compte du tarif qui diminue en fonction de la quantité):
+
+
+<commandes>
+  <commande id="CMD0001">
+    <produit quantité="1" prix-unitaire="5.50" total="5.5">Perforatrice de bureau - Buromat 6544</produit>
+    <produit quantité="1" prix-unitaire="5.85" total="5.85">Agrafeuse manuelle - modèle Rapid Z1</produit>
+  </commande>
+  <commande id="CMD0002">
+    <produit quantité="1" prix-unitaire="196.95" total="196.95">Agrafeuse électrique - modèle Rapid Z20</produit>
+    <produit quantité="10" prix-unitaire="5.00" total="50">Agrafes pour agrafeuses 24/8mm</produit>
+  </commande>
+  <commande id="CMD0003">
+    <produit quantité="1" prix-unitaire="163.00" total="163">Relieuse spirale (21 anneaux) - Rapid 200</produit>
+    <produit quantité="10" prix-unitaire="" total="">Baguette pour reliure perforée 21 anneaux - 9mm</produit>
+    <produit quantité="10" prix-unitaire="" total="">Baguette pour reliure perforée 21 anneaux - 11mm</produit>
+  </commande>
+  <commande id="CMD0004">
+    <produit quantité="1" prix-unitaire="5.85" total="5.85">Agrafeuse manuelle - modèle Rapid Z1</produit>
+    <produit quantité="1" prix-unitaire="5.50" total="5.5">Agrafes pour agrafeuses 24/8mm</produit>
+  </commande>
+  <commande id="CMD0005">
+    <produit quantité="2" prix-unitaire="196.95" total="393.9">Agrafeuse électrique - modèle Rapid Z20</produit>
+    <produit quantité="20" prix-unitaire="5.00" total="100">Agrafes pour agrafeuses 24/8mm</produit>
+  </commande>
+  <commande id="CMD0006">
+    <produit quantité="2" prix-unitaire="8.00" total="16">Agrafes pour agrafeuses 24/6mm</produit>
+  </commande>
+  <commande id="CMD0007">
+    <produit quantité="2" prix-unitaire="8.00" total="16">Agrafes pour agrafeuses 24/6mm</produit>
+  </commande>
+  <commande id="CMD0008">
+    <produit quantité="10" prix-unitaire="8.00" total="80">Agrafes pour agrafeuses 24/6mm</produit>
+  </commande>
+</commandes>
+
+
+Et finalement, essayez d'afficher le prix total de chaque commande et de chaque produit commandé (créez votre liste de 
+commandes dans une variable pour plus de facilité):
+
+<commandes>
+  <commande id="CMD0001" total="11.35">
+    <produit quantité="1" prix-unitaire="5.50" total="5.5">Perforatrice de bureau - Buromat 6544</produit>
+    <produit quantité="1" prix-unitaire="5.85" total="5.85">Agrafeuse manuelle - modèle Rapid Z1</produit>
+  </commande>
+  <commande id="CMD0002" total="246.95">
+    <produit quantité="1" prix-unitaire="196.95" total="196.95">Agrafeuse électrique - modèle Rapid Z20</produit>
+    <produit quantité="10" prix-unitaire="5.00" total="50">Agrafes pour agrafeuses 24/8mm</produit>
+  </commande>
+  <commande id="CMD0003" total="NaN">
+    <produit quantité="1" prix-unitaire="163.00" total="163">Relieuse spirale (21 anneaux) - Rapid 200</produit>
+    <produit quantité="10" prix-unitaire="" total="">Baguette pour reliure perforée 21 anneaux - 9mm</produit>
+    <produit quantité="10" prix-unitaire="" total="">Baguette pour reliure perforée 21 anneaux - 11mm</produit>
+  </commande>
+  <commande id="CMD0004" total="11.35">
+    <produit quantité="1" prix-unitaire="5.85" total="5.85">Agrafeuse manuelle - modèle Rapid Z1</produit>
+    <produit quantité="1" prix-unitaire="5.50" total="5.5">Agrafes pour agrafeuses 24/8mm</produit>
+  </commande>
+  <commande id="CMD0005" total="493.9">
+    <produit quantité="2" prix-unitaire="196.95" total="393.9">Agrafeuse électrique - modèle Rapid Z20</produit>
+    <produit quantité="20" prix-unitaire="5.00" total="100">Agrafes pour agrafeuses 24/8mm</produit>
+  </commande>
+  <commande id="CMD0006" total="16">
+    <produit quantité="2" prix-unitaire="8.00" total="16">Agrafes pour agrafeuses 24/6mm</produit>
+  </commande>
+  <commande id="CMD0007" total="16">
+    <produit quantité="2" prix-unitaire="8.00" total="16">Agrafes pour agrafeuses 24/6mm</produit>
+  </commande>
+  <commande id="CMD0008" total="80">
+    <produit quantité="10" prix-unitaire="8.00" total="80">Agrafes pour agrafeuses 24/6mm</produit>
+  </commande>
+</commandes>

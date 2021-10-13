@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<catalogue xmlns="http://www.samples.com/produits">
+	<produit id="P1" catégorie="matériel">
+		<nom>Perforatrice de bureau - Buromat 6544</nom>
+		<description>
+			<p>Perforatrice deux trous de 5,5mm/Guide jusqu'au format A4.</p>
+			<p>Capacité 1,6mm (16 feuilles).</p>
+		</description>
+		<prix quantité="1">5.50</prix>
+		<prix quantité="5">5.00</prix>
+	</produit>
+	<produit id="P2" catégorie="matériel">
+		<nom>Perforatrice de bureau - Buromat 6545</nom>
+		<description>
+			<p>Perforatrice deux trous de 5,5mm/Guide jusqu'au format A4.</p>
+			<p>Capacité 2,5mm (25 feuilles).</p>
+		</description>
+		<prix quantité="1">6.10</prix>
+	</produit>
+	<produit id="P3" catégorie="matériel">
+		<nom>Agrafeuse manuelle - modèle Rapid Z1</nom>
+		<description>
+			<p>Agrafe un maximum de 20 feuilles (2mm)</p>
+		</description>
+		<prix quantité="1">5.85</prix>
+		<prix quantité="5">5.25</prix>
+		<produit-lié>P5</produit-lié>
+		<produit-lié>P6</produit-lié>
+	</produit>
+	<produit id="P4" catégorie="matériel">
+		<nom>Agrafeuse électrique - modèle Rapid Z20</nom>
+		<description>
+			<p>Agrafeuse électrique compacte à chargement frontal.</p>
+			<p>Agrafe un maximum de 50 feuilles (5mm)</p>
+		</description>
+		<prix quantité="1">196.95</prix>
+		<produit-lié>P5</produit-lié>
+		<produit-lié>P6</produit-lié>
+	</produit>
+	<produit id="P5" catégorie="fourniture">
+		<nom>Agrafes pour agrafeuses 24/6mm</nom>
+		<description>
+			<p>20 petites boites de 1000 agrafes.</p>
+		</description>
+		<prix quantité="1">8.90</prix>
+		<prix quantité="10">8.00</prix>
+		<prix quantité="20">7.20</prix>
+	</produit>
+	<produit id="P6" catégorie="fourniture">
+		<nom>Agrafes pour agrafeuses 24/8mm</nom>
+		<description>
+			<p>2 grandes boites de 5000 agraffes.</p>
+		</description>
+		<prix quantité="1">5.50</prix>
+		<prix quantité="10">5.00</prix>
+	</produit>
+	<produit id="P7" catégorie="matériel">
+		<nom>Relieuse spirale (21 anneaux) - Rapid 200</nom>
+		<description>
+			<p>Relieuse mécanique pour spirales en polypropylène</p>
+		</description>
+		<prix quantité="1">163.00</prix>
+		<produit-lié>P8</produit-lié>
+		<produit-lié>P9</produit-lié>
+	</produit>
+	<produit id="P8" catégorie="fourniture">
+		<nom>Baguette pour reliure perforée 21 anneaux - 9mm</nom>
+		<prix quantité="100">6.20</prix>
+		<prix quantité="1000">5.65</prix>
+		<produit-lié>P7</produit-lié>
+	</produit>
+	<produit id="P9" catégorie="fourniture">
+		<nom>Baguette pour reliure perforée 21 anneaux - 11mm</nom>
+		<prix quantité="100">7.40</prix>
+		<prix quantité="1000">6.85</prix>
+		<produit-lié>P7</produit-lié>
+	</produit>
+</catalogue>

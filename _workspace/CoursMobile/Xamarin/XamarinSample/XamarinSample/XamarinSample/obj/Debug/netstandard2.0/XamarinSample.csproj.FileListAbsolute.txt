@@ -1,0 +1,15 @@
+C:\Users\Antoine\source\repos\CoursWebDev\_workspace\CoursMobile\Xamarin\XamarinSample\XamarinSample\XamarinSample\bin\Debug\netstandard2.0\XamarinSample.deps.json
+C:\Users\Antoine\source\repos\CoursWebDev\_workspace\CoursMobile\Xamarin\XamarinSample\XamarinSample\XamarinSample\bin\Debug\netstandard2.0\XamarinSample.dll
+C:\Users\Antoine\source\repos\CoursWebDev\_workspace\CoursMobile\Xamarin\XamarinSample\XamarinSample\XamarinSample\bin\Debug\netstandard2.0\ref\XamarinSample.dll
+C:\Users\Antoine\source\repos\CoursWebDev\_workspace\CoursMobile\Xamarin\XamarinSample\XamarinSample\XamarinSample\bin\Debug\netstandard2.0\XamarinSample.pdb
+C:\Users\Antoine\source\repos\CoursWebDev\_workspace\CoursMobile\Xamarin\XamarinSample\XamarinSample\XamarinSample\obj\Debug\netstandard2.0\XamarinSample.csproj.AssemblyReference.cache
+C:\Users\Antoine\source\repos\CoursWebDev\_workspace\CoursMobile\Xamarin\XamarinSample\XamarinSample\XamarinSample\obj\Debug\netstandard2.0\XamarinSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antoine\source\repos\CoursWebDev\_workspace\CoursMobile\Xamarin\XamarinSample\XamarinSample\XamarinSample\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Antoine\source\repos\CoursWebDev\_workspace\CoursMobile\Xamarin\XamarinSample\XamarinSample\XamarinSample\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Antoine\source\repos\CoursWebDev\_workspace\CoursMobile\Xamarin\XamarinSample\XamarinSample\XamarinSample\obj\Debug\netstandard2.0\XamarinSample.AssemblyInfoInputs.cache
+C:\Users\Antoine\source\repos\CoursWebDev\_workspace\CoursMobile\Xamarin\XamarinSample\XamarinSample\XamarinSample\obj\Debug\netstandard2.0\XamarinSample.AssemblyInfo.cs
+C:\Users\Antoine\source\repos\CoursWebDev\_workspace\CoursMobile\Xamarin\XamarinSample\XamarinSample\XamarinSample\obj\Debug\netstandard2.0\XamarinSample.csproj.CoreCompileInputs.cache
+C:\Users\Antoine\source\repos\CoursWebDev\_workspace\CoursMobile\Xamarin\XamarinSample\XamarinSample\XamarinSample\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Antoine\source\repos\CoursWebDev\_workspace\CoursMobile\Xamarin\XamarinSample\XamarinSample\XamarinSample\obj\Debug\netstandard2.0\XamarinSample.dll
+C:\Users\Antoine\source\repos\CoursWebDev\_workspace\CoursMobile\Xamarin\XamarinSample\XamarinSample\XamarinSample\obj\Debug\netstandard2.0\ref\XamarinSample.dll
+C:\Users\Antoine\source\repos\CoursWebDev\_workspace\CoursMobile\Xamarin\XamarinSample\XamarinSample\XamarinSample\obj\Debug\netstandard2.0\XamarinSample.pdb

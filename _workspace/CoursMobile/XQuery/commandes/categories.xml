@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<catégories xmlns="http://www.samples.com/produits">
+	<catégorie id="matériel">
+		<nom>Matériels de bureau</nom>
+	</catégorie>
+	<catégorie id="fourniture">
+		<nom>Fournitures de bureau</nom>
+	</catégorie>
+</catégories>
