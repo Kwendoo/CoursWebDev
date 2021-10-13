@@ -6,7 +6,9 @@
             BarBackgroundColor="Yellow"
             BarTextColor="Chocolate"
             xmlns:android="clr-namespace:Xamarin.Forms.PlatformConfiguration.AndroidSpecific;assembly=Xamarin.Forms.Core"
-            android:TabbedPage.ToolbarPlacement="Bottom">
+            android:TabbedPage.ToolbarPlacement="Bottom"
+            xmlns:uwp="clr-namespace:Xamarin.Forms.PlatformConfiguration.WindowsSpecific;assembly=Xamarin.Forms.Core"
+            >
   <!--Pages can be added as references or inline-->
     <ContentPage Title="Tab 1">
 
@@ -17,6 +19,6 @@
         
     </ContentPage>
     <ContentPage Title="Tab 2" />
-    <ContentPage Title="Tab 3" />
+    <local:Profil Title="Profil"/>
     <local:MainPage Title="Main page" />
 </TabbedPage>
