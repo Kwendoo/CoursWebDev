@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\Antoine\source\repos\CoursWebDev\_workspace\CoursMobile\Xamarin\XamarinDemo\XamarinDemo\XamarinDemo.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-10-13T10:17:46.870</Modified>
+      <Modified>2021-10-13T12:13:03.097</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Antoine\source\repos\CoursWebDev\_workspace\CoursMobile\Xamarin\XamarinDemo\XamarinDemo\XamarinDemo.UWP\bin\x86\Debug\XamarinDemo.UWP.exe">
       <PackagePath>entrypoint\XamarinDemo.UWP.exe</PackagePath>
-      <Modified>2021-10-13T10:17:45.744</Modified>
+      <Modified>2021-10-13T12:13:01.913</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.12\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -68,7 +68,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Antoine\source\repos\CoursWebDev\_workspace\CoursMobile\Xamarin\XamarinDemo\XamarinDemo\XamarinDemo\bin\Debug\netstandard2.0\XamarinDemo.dll">
       <PackagePath>XamarinDemo.dll</PackagePath>
-      <Modified>2021-10-13T10:27:53.344</Modified>
+      <Modified>2021-10-13T12:21:58.824</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Antoine\.nuget\packages\win2d.uwp\1.20.0\lib\uap10.0\Microsoft.Graphics.Canvas.winmd">
       <PackagePath>Microsoft.Graphics.Canvas.winmd</PackagePath>
@@ -77,6 +77,10 @@
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.19041.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
       <Modified>2020-12-02T02:52:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Antoine\source\repos\CoursWebDev\_workspace\CoursMobile\Xamarin\XamarinDemo\XamarinDemo\XamarinDemo\Images\image.png">
+      <PackagePath>Images\image.png</PackagePath>
+      <Modified>2021-10-11T14:40:43.639</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft\Xamarin\NuGet\xamarin.forms\5.0.0.2012\lib\uap10.0.16299\Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml">
       <PackagePath>Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml</PackagePath>
@@ -227,11 +231,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Antoine\source\repos\CoursWebDev\_workspace\CoursMobile\Xamarin\XamarinDemo\XamarinDemo\XamarinDemo.UWP\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2021-10-13T10:17:45.652</Modified>
+      <Modified>2021-10-13T12:13:01.826</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Antoine\source\repos\CoursWebDev\_workspace\CoursMobile\Xamarin\XamarinDemo\XamarinDemo\XamarinDemo.UWP\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2021-10-13T10:17:45.652</Modified>
+      <Modified>2021-10-13T12:13:01.826</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.19041.0\\redist\Debug\x86\ucrtbased.dll">
       <PackagePath>ucrtbased.dll</PackagePath>
@@ -251,7 +255,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Antoine\source\repos\CoursWebDev\_workspace\CoursMobile\Xamarin\XamarinDemo\XamarinDemo\XamarinDemo.UWP\bin\x86\Debug\Core\XamarinDemo.UWP.exe">
       <PackagePath>XamarinDemo.UWP.exe</PackagePath>
-      <Modified>2021-10-13T10:17:46.862</Modified>
+      <Modified>2021-10-13T12:13:03.088</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

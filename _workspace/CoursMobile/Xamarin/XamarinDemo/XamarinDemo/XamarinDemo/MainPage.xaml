@@ -6,7 +6,27 @@
 
     <ScrollView>
         <StackLayout>
-            <Label FontSize="Large" BackgroundColor="BlueViolet" Text="Salut"/>
+
+            <RelativeLayout>
+
+                <BoxView
+                    x:Name="bv"
+                    BackgroundColor="Firebrick"
+                    RelativeLayout.HeightConstraint="{ConstraintExpression Type=RelativeToParent, Property=Width, Factor=0.3}"
+                    RelativeLayout.WidthConstraint="{ConstraintExpression Type=RelativeToParent, Property=Width, Factor=1, Constant=50}"
+                    >
+                </BoxView>
+
+                <Image Source="{extension:EmbeddedImage Ressource=XamarinDemo.Images.image.png}"
+                       WidthRequest="150"
+                       Aspect="AspectFit"
+                       RelativeLayout.XConstraint="{ConstraintExpression Type=RelativeToView, ElementName=bv, Property=Width, Factor=0.4}"
+                       RelativeLayout.YConstraint="{ConstraintExpression Type=RelativeToView, ElementName=bv, Property=Height, Factor=0.4}"
+                       ></Image>
+                
+            </RelativeLayout>
+            
+            <Label FontSize="Large" BackgroundColor="Red" Text="Salut"/>
 
             <Button HeightRequest="100" BorderWidth="4" Text="Click ici test" />
             <DatePicker MinimumDate="2021-01-01" MaximumDate="2021-12-31"></DatePicker>
