@@ -203,3 +203,4 @@ C:\Users\Antoine\source\repos\CoursWebDev\_workspace\CoursMobile\Xamarin\Xamarin
 C:\Users\Antoine\source\repos\CoursWebDev\_workspace\CoursMobile\Xamarin\XamarinDemo\XamarinDemo\XamarinDemo.Android\obj\Debug\110\android\assets\XamarinDemo.Android.pdb
 C:\Users\Antoine\source\repos\CoursWebDev\_workspace\CoursMobile\Xamarin\XamarinDemo\XamarinDemo\XamarinDemo.Android\obj\Debug\110\android\assets\XamarinDemo.dll
 C:\Users\Antoine\source\repos\CoursWebDev\_workspace\CoursMobile\Xamarin\XamarinDemo\XamarinDemo\XamarinDemo.Android\obj\Debug\110\android\assets\XamarinDemo.pdb
+C:\Users\Antoine\source\repos\CoursWebDev\_workspace\CoursMobile\Xamarin\XamarinDemo\XamarinDemo\XamarinDemo.Android\bin\Debug\Images\image.png

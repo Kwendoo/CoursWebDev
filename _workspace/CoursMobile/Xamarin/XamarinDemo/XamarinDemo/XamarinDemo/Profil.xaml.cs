@@ -1,11 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
+using XamarinDemo.ViewModels;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
+
 
 namespace XamarinDemo
 {
@@ -14,7 +11,14 @@ namespace XamarinDemo
     {
         public Profil()
         {
+
+            BindingContext = new ProfilViewModels();
             InitializeComponent();
+        }
+
+        private void click(object sender, EventArgs e)
+        {
+
         }
     }
 }

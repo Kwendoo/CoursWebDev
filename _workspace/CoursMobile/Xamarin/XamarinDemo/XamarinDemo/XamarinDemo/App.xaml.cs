@@ -1,6 +1,7 @@
 ﻿using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
+using XamarinDemo.Services;
 
 namespace XamarinDemo
 {
@@ -8,6 +9,8 @@ namespace XamarinDemo
     {
         public App()
         {
+            DependencyService.RegisterSingleton<ContactService>(new ContactService());
+
             InitializeComponent();
 
             MainPage = new TabbedPage1();

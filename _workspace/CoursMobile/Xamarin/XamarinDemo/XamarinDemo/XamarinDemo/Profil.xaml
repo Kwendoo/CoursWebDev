@@ -25,7 +25,7 @@
                 
                         </BoxView>
             
-                        <Label Text="Antoine Lagna" 
+                        <Label Text="Lagna Antoine"
                                FontSize="25" 
                                RelativeLayout.XConstraint="{ConstraintExpression Type=RelativeToView, ElementName=bv, Property=Width, Factor=0.4, Constant=-20}"
                                RelativeLayout.YConstraint="{ConstraintExpression Type=RelativeToView, ElementName=bv, Property=Height, Factor=0.4}"/>
@@ -44,7 +44,8 @@
                             <RowDefinition></RowDefinition>
                             <RowDefinition></RowDefinition>
                             <RowDefinition></RowDefinition>
-                            <RowDefinition Height="1"></RowDefinition>
+                            <RowDefinition></RowDefinition>
+                            <RowDefinition></RowDefinition>
                             <RowDefinition></RowDefinition>
                         </Grid.RowDefinitions>
                         <Grid.ColumnDefinitions>
@@ -53,18 +54,20 @@
                         </Grid.ColumnDefinitions>
             
                         <Label Text="GSM" Grid.Row="0" Grid.Column="1"></Label>
-                        <Entry Placeholder="0474/639161" Keyboard="Telephone" Grid.Row="0" Grid.Column="2"></Entry>
+                        <Label Text="{Binding GSM}" Grid.Row="0" Grid.Column="2"></Label>
 
                         <Label Text="Tel" Grid.Row="1" Grid.Column="1"></Label>
-                        <Entry Placeholder="082/400132" Keyboard="Telephone" Grid.Row="1" Grid.Column="2"></Entry>
+                        <Label Text="{Binding Tel}" Grid.Row="1" Grid.Column="2"></Label>
 
                         <Label Text="E-mail" Grid.Row="2" Grid.Column="1"></Label>
-                        <Entry Placeholder="antoine.lagna@gmail.com" Keyboard="Email" Grid.Row="2" Grid.Column="2"></Entry>
+                        <Label Text="{Binding Email}" Grid.Row="2" Grid.Column="2"></Label>
 
-                        <Label Text="" BackgroundColor="Black" HeightRequest="1" Grid.Row="3" Grid.ColumnSpan="3"></Label>
+                        <Label Text="" Style="{StaticResource Separator}" Grid.Row="3" Grid.ColumnSpan="3"></Label>
 
                         <Label Text="Info" Grid.Row="4" Grid.Column="1"></Label>
-                        <Label Text="Blablabla" Grid.Row="4" Grid.Column="2"></Label>
+                        <Label Text="{Binding Info}" Grid.Row="4" Grid.Column="2"></Label>
+
+                        <Button Text="Click Me!" Command="{Binding ChangeValueCommand}" Grid.ColumnSpan="3" Grid.Row="5"/>
 
                     </Grid>
 
