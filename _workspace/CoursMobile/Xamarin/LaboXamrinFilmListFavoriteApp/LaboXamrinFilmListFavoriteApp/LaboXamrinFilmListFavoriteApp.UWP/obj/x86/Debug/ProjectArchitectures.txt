@@ -1,0 +1,1 @@
+C:\Users\Antoine\source\repos\CoursWebDev\_workspace\CoursMobile\Xamarin\LaboXamrinFilmListFavoriteApp\LaboXamrinFilmListFavoriteApp\LaboXamrinFilmListFavoriteApp.UWP\LaboXamrinFilmListFavoriteApp.UWP.csproj;x86

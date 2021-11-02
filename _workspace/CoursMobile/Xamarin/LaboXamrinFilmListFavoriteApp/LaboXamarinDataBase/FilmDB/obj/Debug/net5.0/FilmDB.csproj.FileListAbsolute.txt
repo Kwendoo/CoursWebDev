@@ -1,0 +1,6 @@
+C:\Users\Antoine\source\repos\CoursWebDev\_workspace\CoursMobile\Xamarin\LaboXamrinFilmListFavoriteApp\LaboXamarinDataBase\FilmDB\obj\Debug\net5.0\FilmDB.csproj.AssemblyReference.cache
+C:\Users\Antoine\source\repos\CoursWebDev\_workspace\CoursMobile\Xamarin\LaboXamrinFilmListFavoriteApp\LaboXamarinDataBase\FilmDB\obj\Debug\net5.0\FilmDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antoine\source\repos\CoursWebDev\_workspace\CoursMobile\Xamarin\LaboXamrinFilmListFavoriteApp\LaboXamarinDataBase\FilmDB\obj\Debug\net5.0\FilmDB.AssemblyInfoInputs.cache
+C:\Users\Antoine\source\repos\CoursWebDev\_workspace\CoursMobile\Xamarin\LaboXamrinFilmListFavoriteApp\LaboXamarinDataBase\FilmDB\obj\Debug\net5.0\FilmDB.AssemblyInfo.cs
+C:\Users\Antoine\source\repos\CoursWebDev\_workspace\CoursMobile\Xamarin\LaboXamrinFilmListFavoriteApp\LaboXamarinDataBase\FilmDB\obj\Debug\net5.0\FilmDB.csproj.CoreCompileInputs.cache
+C:\Users\Antoine\source\repos\CoursWebDev\_workspace\CoursMobile\Xamarin\LaboXamrinFilmListFavoriteApp\LaboXamarinDataBase\FilmDB\obj\Debug\net5.0\FilmDB.MvcApplicationPartsAssemblyInfo.cache

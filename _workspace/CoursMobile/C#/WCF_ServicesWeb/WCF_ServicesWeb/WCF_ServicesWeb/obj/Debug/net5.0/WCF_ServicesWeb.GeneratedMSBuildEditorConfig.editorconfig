@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = WCF_ServicesWeb
-build_property.ProjectDir = C:\Users\Antoine\source\repos\_workspace\CoursMobile\C#\WCF_ServicesWeb\WCF_ServicesWeb\WCF_ServicesWeb\
+build_property.ProjectDir = C:\Users\Antoine\source\repos\CoursWebDev\_workspace\CoursMobile\C#\WCF_ServicesWeb\WCF_ServicesWeb\WCF_ServicesWeb\

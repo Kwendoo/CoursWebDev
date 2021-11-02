@@ -16,3 +16,4 @@ C:\Users\Antoine\source\repos\CoursWebDev\_workspace\CoursMobile\Xamarin\Xamarin
 C:\Users\Antoine\source\repos\CoursWebDev\_workspace\CoursMobile\Xamarin\XamarinDemo\XamarinDemo\XamarinDemo\bin\Debug\netstandard2.0\Images\image.png
 C:\Users\Antoine\source\repos\CoursWebDev\_workspace\CoursMobile\Xamarin\XamarinDemo\XamarinDemo\XamarinDemo\obj\Debug\netstandard2.0\TabbedPage1.xaml.g.cs
 C:\Users\Antoine\source\repos\CoursWebDev\_workspace\CoursMobile\Xamarin\XamarinDemo\XamarinDemo\XamarinDemo\obj\Debug\netstandard2.0\Profil.xaml.g.cs
+C:\Users\Antoine\source\repos\CoursWebDev\_workspace\CoursMobile\Xamarin\XamarinDemo\XamarinDemo\XamarinDemo\obj\Debug\netstandard2.0\ContactListView.xaml.g.cs

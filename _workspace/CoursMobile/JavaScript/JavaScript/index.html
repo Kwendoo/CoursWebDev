@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/normalize.css">
+</head>
+
+<body>
+    
+    
+    
+    <script>
+    
+        console.log("ligne 1");
+        
+        
+        /*callback
+
+            setTimeout(()=>{
+                console.log("ligne 2");
+            },1000);
+
+
+            console.log("ligne 3");*/
+        
+        //ooPromesse
+            new Promise ((succes, denied)=>{
+
+                setTimeout(()=>{
+                    succes();
+                },1000);
+
+            }).then(()=>{
+
+                console.log("Ligne 2");
+                console.log("ligne 3");
+
+            }).catch(()=>{
+
+                console.log("Une erreur a été déctée !");
+
+            })
+        
+    </script>
+</body>
+</html>

@@ -1,0 +1,9 @@
+C:\Users\Antoine\source\repos\CoursWebDev\_workspace\CoursMobile\Xamarin\LaboXamrinFilmListFavoriteApp\LaboXamarinDataBase\LaboXamarinDataBase\bin\Debug\LaboXamarinDataBase.dacpac
+C:\Users\Antoine\source\repos\CoursWebDev\_workspace\CoursMobile\Xamarin\LaboXamrinFilmListFavoriteApp\LaboXamarinDataBase\LaboXamarinDataBase\obj\Debug\LaboXamarinDataBase.dll
+C:\Users\Antoine\source\repos\CoursWebDev\_workspace\CoursMobile\Xamarin\LaboXamrinFilmListFavoriteApp\LaboXamarinDataBase\LaboXamarinDataBase\obj\Debug\LaboXamarinDataBase.pdb
+C:\Users\Antoine\source\repos\CoursWebDev\_workspace\CoursMobile\Xamarin\LaboXamrinFilmListFavoriteApp\LaboXamarinDataBase\LaboXamarinDataBase\bin\Debug\LaboXamarinDataBase.dll
+C:\Users\Antoine\source\repos\CoursWebDev\_workspace\CoursMobile\Xamarin\LaboXamrinFilmListFavoriteApp\LaboXamarinDataBase\LaboXamarinDataBase\bin\Debug\LaboXamarinDataBase.pdb
+C:\Users\Antoine\source\repos\CoursWebDev\_workspace\CoursMobile\Xamarin\LaboXamrinFilmListFavoriteApp\LaboXamarinDataBase\LaboXamarinDataBase\obj\Debug\Model.xml
+C:\Users\Antoine\source\repos\CoursWebDev\_workspace\CoursMobile\Xamarin\LaboXamrinFilmListFavoriteApp\LaboXamarinDataBase\LaboXamarinDataBase\obj\Debug\refactor.xml
+C:\Users\Antoine\source\repos\CoursWebDev\_workspace\CoursMobile\Xamarin\LaboXamrinFilmListFavoriteApp\LaboXamarinDataBase\LaboXamarinDataBase\obj\Debug\postdeploy.sql
+C:\Users\Antoine\source\repos\CoursWebDev\_workspace\CoursMobile\Xamarin\LaboXamrinFilmListFavoriteApp\LaboXamarinDataBase\LaboXamarinDataBase\obj\Debug\predeploy.sql

@@ -1,0 +1,5 @@
+C:\Users\Antoine\source\repos\CoursWebDev\_workspace\CoursMobile\Xamarin\LaboXamrinFilmListFavoriteApp\LaboXamarinDataBase\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Antoine\source\repos\CoursWebDev\_workspace\CoursMobile\Xamarin\LaboXamrinFilmListFavoriteApp\LaboXamarinDataBase\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antoine\source\repos\CoursWebDev\_workspace\CoursMobile\Xamarin\LaboXamrinFilmListFavoriteApp\LaboXamarinDataBase\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Antoine\source\repos\CoursWebDev\_workspace\CoursMobile\Xamarin\LaboXamrinFilmListFavoriteApp\LaboXamarinDataBase\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\Antoine\source\repos\CoursWebDev\_workspace\CoursMobile\Xamarin\LaboXamrinFilmListFavoriteApp\LaboXamarinDataBase\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CoreCompileInputs.cache
